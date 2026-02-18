@@ -1,0 +1,1167 @@
+[2026-01-31 19:10:49] Script started. Loading CSV...
+[2026-01-31 19:10:57] Selenium driver initialized.
+[2026-01-31 19:10:58] 
+[1/100] Project: روضة بلازا
+[2026-01-31 19:10:58]   Developer: nan
+[2026-01-31 19:10:58]   Google query: روضة بلازا nan Offplan Project Dubai
+[2026-01-31 19:11:09]   Collected 14 candidate URLs (deduped)
+[2026-01-31 19:11:22]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/lp/dubai/villas
+[2026-01-31 19:11:32]   Processing URL (1/10): https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 19:11:32] Opening new tab for URL: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 19:11:47] Closing tab: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 19:11:48]   extracted content (sections=19, blocks=35, imgs=1, pdfs=0, root=article)
+[2026-01-31 19:11:48]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 19:11:48]   Skipping URL (blacklisted domain): https://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Dubai)
+[2026-01-31 19:11:55]   Processing URL (2/10): https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 19:11:55] Opening new tab for URL: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 19:12:19] Closing tab: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 19:12:21]   extracted content (sections=27, blocks=46, imgs=14, pdfs=0, root=div)
+[2026-01-31 19:12:21]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 19:12:30]   Processing URL (3/10): https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:12:30] Opening new tab for URL: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:12:48] Closing tab: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:12:49]   extracted content (sections=3, blocks=7, imgs=0, pdfs=0, root=main)
+[2026-01-31 19:12:49]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 19:12:57]   Processing URL (4/10): https://www.offplan-dubai.com/offplan-projects-in-dubai/
+[2026-01-31 19:12:57] Opening new tab for URL: https://www.offplan-dubai.com/offplan-projects-in-dubai/
+[2026-01-31 19:13:15] Closing tab: https://www.offplan-dubai.com/offplan-projects-in-dubai/
+[2026-01-31 19:13:17]   extracted content (sections=7, blocks=29, imgs=47, pdfs=0, root=main)
+[2026-01-31 19:13:17]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 19:13:17]   Skipping URL (blacklisted domain): https://dubai.dubizzle.com/en/property-for-sale/off-plan/residential/
+[2026-01-31 19:13:24]   Processing URL (5/10): https://danubeproperties.com/off-plan-apartments-dubai/
+[2026-01-31 19:13:24] Opening new tab for URL: https://danubeproperties.com/off-plan-apartments-dubai/
+[2026-01-31 19:13:49] Closing tab: https://danubeproperties.com/off-plan-apartments-dubai/
+[2026-01-31 19:13:51]   extracted content (sections=121, blocks=131, imgs=37, pdfs=0, root=main)
+[2026-01-31 19:13:51]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 19:14:02]   Processing URL (6/10): https://www.bhomes.com/en/off-plan
+[2026-01-31 19:14:02] Opening new tab for URL: https://www.bhomes.com/en/off-plan
+[2026-01-31 19:14:21] Closing tab: https://www.bhomes.com/en/off-plan
+[2026-01-31 19:14:21]   extracted content (sections=25, blocks=104, imgs=386, pdfs=0, root=main)
+[2026-01-31 19:14:21]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 19:14:32]   Processing URL (7/10): https://www.drivenproperties.com/dubai/upcoming-off-plan-properties-in-2027
+[2026-01-31 19:14:32] Opening new tab for URL: https://www.drivenproperties.com/dubai/upcoming-off-plan-properties-in-2027
+[2026-01-31 19:14:50] Closing tab: https://www.drivenproperties.com/dubai/upcoming-off-plan-properties-in-2027
+[2026-01-31 19:14:50]   extracted content (sections=27, blocks=70, imgs=33, pdfs=0, root=main)
+[2026-01-31 19:14:50]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 19:14:51]   Skipping URL (blacklisted domain): https://www.bayut.com/new-projects/dubai/nad-al-sheba/
+[2026-01-31 19:14:59]   Processing URL (8/10): https://www.offplanprojects-dubai.com/
+[2026-01-31 19:14:59] Opening new tab for URL: https://www.offplanprojects-dubai.com/
+[2026-01-31 19:15:15] Closing tab: https://www.offplanprojects-dubai.com/
+[2026-01-31 19:15:16]   extracted content (sections=25, blocks=50, imgs=60, pdfs=0, root=main)
+[2026-01-31 19:15:16]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 19:15:23]   Processing URL (9/10): https://pangeadubai.com/projects/
+[2026-01-31 19:15:23] Opening new tab for URL: https://pangeadubai.com/projects/
+[2026-01-31 19:15:44] Closing tab: https://pangeadubai.com/projects/
+[2026-01-31 19:15:45]   extracted content (sections=3, blocks=40, imgs=6, pdfs=0, root=body)
+[2026-01-31 19:15:45]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 19:15:55]   Processing URL (10/10): https://topluxuryproperty.com/ae/dubai-projects/
+[2026-01-31 19:15:55] Opening new tab for URL: https://topluxuryproperty.com/ae/dubai-projects/
+[2026-01-31 19:16:11] Closing tab: https://topluxuryproperty.com/ae/dubai-projects/
+[2026-01-31 19:16:11]   extracted content (sections=5, blocks=3, imgs=0, pdfs=0, root=body)
+[2026-01-31 19:16:11]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 19:16:11] Project completed: روضة بلازا — 10 pages processed
+[2026-01-31 19:16:30] 
+[2/100] Project: اية بي بالاس جروب
+[2026-01-31 19:16:30]   Developer: nan
+[2026-01-31 19:16:30]   Google query: اية بي بالاس جروب nan Offplan Project Dubai
+[2026-01-31 19:16:39]   Collected 16 candidate URLs (deduped)
+[2026-01-31 19:16:48]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/lp/dubai
+[2026-01-31 19:16:59]   Processing URL (1/10): https://www.drivenproperties.com/dubai-properties-areas/business-bay/off-plan-projects-for-sale
+[2026-01-31 19:16:59] Opening new tab for URL: https://www.drivenproperties.com/dubai-properties-areas/business-bay/off-plan-projects-for-sale
+[2026-01-31 19:17:15] Closing tab: https://www.drivenproperties.com/dubai-properties-areas/business-bay/off-plan-projects-for-sale
+[2026-01-31 19:17:15]   extracted content (sections=16, blocks=60, imgs=33, pdfs=0, root=main)
+[2026-01-31 19:17:15]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 19:17:26]   Processing URL (2/10): https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:17:26] Opening new tab for URL: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:17:42] Closing tab: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:17:43]   extracted content (sections=3, blocks=7, imgs=0, pdfs=0, root=main)
+[2026-01-31 19:17:43]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 19:17:43]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/lp/dubai/business-bay
+[2026-01-31 19:17:52]   Processing URL (3/10): https://www.offplan-dubai.com/
+[2026-01-31 19:17:52] Opening new tab for URL: https://www.offplan-dubai.com/
+[2026-01-31 19:18:13] Closing tab: https://www.offplan-dubai.com/
+[2026-01-31 19:18:16]   extracted content (sections=44, blocks=65, imgs=79, pdfs=0, root=main)
+[2026-01-31 19:18:16]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 19:18:22]   Processing URL (4/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:18:22] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:18:45] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:18:46]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 19:18:46]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 19:18:54]   Processing URL (5/10): https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 19:18:54] Opening new tab for URL: https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 19:19:12] Closing tab: https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 19:19:12]   extracted content (sections=5, blocks=7, imgs=5, pdfs=0, root=main)
+[2026-01-31 19:19:12]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 19:19:21]   Processing URL (6/10): https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 19:19:21] Opening new tab for URL: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 19:19:40] Closing tab: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 19:19:43]   extracted content (sections=31, blocks=71, imgs=125, pdfs=0, root=body)
+[2026-01-31 19:19:43]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 19:19:43]   Skipping URL (blacklisted domain): https://www.bayut.com/new-projects/dubai/
+[2026-01-31 19:19:50]   Processing URL (7/10): https://dxboffplan.com/
+[2026-01-31 19:19:50] Opening new tab for URL: https://dxboffplan.com/
+[2026-01-31 19:20:08] Closing tab: https://dxboffplan.com/
+[2026-01-31 19:20:09]   extracted content (sections=71, blocks=78, imgs=39, pdfs=0, root=main)
+[2026-01-31 19:20:09]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 19:20:18]   Processing URL (8/10): https://off-planproperties.ae/
+[2026-01-31 19:20:18] Opening new tab for URL: https://off-planproperties.ae/
+[2026-01-31 19:20:34] Closing tab: https://off-planproperties.ae/
+[2026-01-31 19:20:35]   extracted content (sections=1, blocks=7, imgs=1, pdfs=0, root=div)
+[2026-01-31 19:20:35]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 19:20:43]   Processing URL (9/10): https://uae-offplan.com/
+[2026-01-31 19:20:43] Opening new tab for URL: https://uae-offplan.com/
+[2026-01-31 19:21:03] Closing tab: https://uae-offplan.com/
+[2026-01-31 19:21:06]   extracted content (sections=500, blocks=499, imgs=305, pdfs=0, root=body)
+[2026-01-31 19:21:06]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 19:21:16]   Processing URL (10/10): https://aardysprop.com/off-plan-properties-dubai
+[2026-01-31 19:21:16] Opening new tab for URL: https://aardysprop.com/off-plan-properties-dubai
+[2026-01-31 19:21:40] Closing tab: https://aardysprop.com/off-plan-properties-dubai
+[2026-01-31 19:21:41]   extracted content (sections=57, blocks=123, imgs=84, pdfs=0, root=body)
+[2026-01-31 19:21:41]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 19:21:41] Project completed: اية بي بالاس جروب — 10 pages processed
+[2026-01-31 19:21:53] 
+[3/100] Project: برجيل ريزيدنيس
+[2026-01-31 19:21:53]   Developer: nan
+[2026-01-31 19:21:53]   Google query: برجيل ريزيدنيس nan Offplan Project Dubai
+[2026-01-31 19:22:02]   Collected 11 candidate URLs (deduped)
+[2026-01-31 19:22:26]   Processing URL (1/10): https://selecthouse.co/uae/en/blog/upcoming-mega-projects-in-dubai/
+[2026-01-31 19:22:26] Opening new tab for URL: https://selecthouse.co/uae/en/blog/upcoming-mega-projects-in-dubai/
+[2026-01-31 19:22:43] Closing tab: https://selecthouse.co/uae/en/blog/upcoming-mega-projects-in-dubai/
+[2026-01-31 19:22:43]   extracted content (sections=20, blocks=74, imgs=7, pdfs=0, root=div)
+[2026-01-31 19:22:43]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 19:22:54]   Processing URL (2/10): https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 19:22:54] Opening new tab for URL: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 19:23:12] Closing tab: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 19:23:14]   extracted content (sections=31, blocks=71, imgs=125, pdfs=0, root=body)
+[2026-01-31 19:23:14]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 19:23:22]   Processing URL (3/10): https://www.offplan-dubai.com/
+[2026-01-31 19:23:22] Opening new tab for URL: https://www.offplan-dubai.com/
+[2026-01-31 19:23:41] Closing tab: https://www.offplan-dubai.com/
+[2026-01-31 19:23:44]   extracted content (sections=44, blocks=65, imgs=79, pdfs=0, root=main)
+[2026-01-31 19:23:44]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 19:23:44]   Skipping URL (blacklisted domain): https://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Dubai)
+[2026-01-31 19:23:54]   Processing URL (4/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:23:54] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:24:15] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:24:16]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 19:24:16]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 19:24:26]   Processing URL (5/10): https://www.hausandhaus.com/resources/latest-news-and-insights/off-plan-property-finance-in-dubai-what-buyers-need-to-know/
+[2026-01-31 19:24:26] Opening new tab for URL: https://www.hausandhaus.com/resources/latest-news-and-insights/off-plan-property-finance-in-dubai-what-buyers-need-to-know/
+[2026-01-31 19:24:44] Closing tab: https://www.hausandhaus.com/resources/latest-news-and-insights/off-plan-property-finance-in-dubai-what-buyers-need-to-know/
+[2026-01-31 19:24:44]   extracted content (sections=16, blocks=37, imgs=11, pdfs=0, root=main)
+[2026-01-31 19:24:44]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 19:24:54]   Processing URL (6/10): https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:24:54] Opening new tab for URL: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:25:11] Closing tab: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:25:12]   extracted content (sections=3, blocks=7, imgs=0, pdfs=0, root=main)
+[2026-01-31 19:25:12]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 19:25:21]   Processing URL (7/10): https://uae-offplan.com/
+[2026-01-31 19:25:21] Opening new tab for URL: https://uae-offplan.com/
+[2026-01-31 19:25:39] Closing tab: https://uae-offplan.com/
+[2026-01-31 19:25:42]   extracted content (sections=500, blocks=499, imgs=305, pdfs=0, root=body)
+[2026-01-31 19:25:42]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 19:25:51]   Processing URL (8/10): https://www.allsoppandallsopp.com/dubai/buyers/off-plan
+[2026-01-31 19:25:51] Opening new tab for URL: https://www.allsoppandallsopp.com/dubai/buyers/off-plan
+[2026-01-31 19:26:08] Closing tab: https://www.allsoppandallsopp.com/dubai/buyers/off-plan
+[2026-01-31 19:26:08]   extracted content (sections=38, blocks=157, imgs=21, pdfs=0, root=main)
+[2026-01-31 19:26:08]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 19:26:16]   Processing URL (9/10): https://nabnidevelopments.com/
+[2026-01-31 19:26:16] Opening new tab for URL: https://nabnidevelopments.com/
+[2026-01-31 19:26:35] Closing tab: https://nabnidevelopments.com/
+[2026-01-31 19:26:36]   extracted content (sections=25, blocks=40, imgs=58, pdfs=1, root=main)
+[2026-01-31 19:26:36]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 19:26:47]   Processing URL (10/10): https://opr.ae/
+[2026-01-31 19:26:47] Opening new tab for URL: https://opr.ae/
+[2026-01-31 19:27:22] Closing tab: https://opr.ae/
+[2026-01-31 19:27:34]   extracted content (sections=28, blocks=85, imgs=53, pdfs=0, root=body)
+[2026-01-31 19:27:34]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 19:27:34] Project completed: برجيل ريزيدنيس — 10 pages processed
+[2026-01-31 19:27:53] 
+[4/100] Project: Marquis One
+[2026-01-31 19:27:53]   Developer: nan
+[2026-01-31 19:27:53]   Google query: Marquis One nan Offplan Project Dubai
+[2026-01-31 19:28:02]   Collected 17 candidate URLs (deduped)
+[2026-01-31 19:28:15]   Skipping URL (blacklisted domain): https://www.youtube.com/watch?v=uh0IpN_tRRo
+[2026-01-31 19:28:15]   Skipping URL (blacklisted domain): https://www.instagram.com/reel/DNYSb3itEs6/
+[2026-01-31 19:28:15]   Skipping URL (blacklisted domain): https://www.instagram.com/reel/DNW7Dr9CkEj/
+[2026-01-31 19:28:15]   Skipping URL (blacklisted domain): https://www.instagram.com/reel/DNVAs0jPFAe/
+[2026-01-31 19:28:15]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/dev/marquis-point/dubai
+[2026-01-31 19:28:15]   Skipping URL (blacklisted domain): https://www.bayut.com/for-sale/apartments/dubai/arjan/marquis-one/
+[2026-01-31 19:28:21]   Processing URL (1/10): https://avriniproperties.com/projects/marquis-one
+[2026-01-31 19:28:21] Opening new tab for URL: https://avriniproperties.com/projects/marquis-one
+[2026-01-31 19:28:47] Closing tab: https://avriniproperties.com/projects/marquis-one
+[2026-01-31 19:28:49]   extracted content (sections=7, blocks=14, imgs=12, pdfs=0, root=div)
+[2026-01-31 19:28:49]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 19:28:59]   Processing URL (2/10): https://disalvorealty.com/project?id=6957276ba71d649dc860a37c
+[2026-01-31 19:28:59] Opening new tab for URL: https://disalvorealty.com/project?id=6957276ba71d649dc860a37c
+[2026-01-31 19:29:16] Closing tab: https://disalvorealty.com/project?id=6957276ba71d649dc860a37c
+[2026-01-31 19:29:17]   extracted content (sections=10, blocks=7, imgs=22, pdfs=0, root=main)
+[2026-01-31 19:29:17]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 19:29:25]   Processing URL (3/10): https://livingtonproperties.com/dubai-property/marquis-one/
+[2026-01-31 19:29:25] Opening new tab for URL: https://livingtonproperties.com/dubai-property/marquis-one/
+[2026-01-31 19:29:43] Closing tab: https://livingtonproperties.com/dubai-property/marquis-one/
+[2026-01-31 19:29:44]   extracted content (sections=25, blocks=26, imgs=12, pdfs=0, root=main)
+[2026-01-31 19:29:44]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 19:29:44]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/dev/marquis-point/dubai/apartments
+[2026-01-31 19:29:52]   Processing URL (4/10): https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 19:29:52] Opening new tab for URL: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 19:30:11] Closing tab: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 19:30:14]   extracted content (sections=31, blocks=71, imgs=125, pdfs=0, root=body)
+[2026-01-31 19:30:14]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 19:30:22]   Processing URL (5/10): https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 19:30:22] Opening new tab for URL: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 19:30:39] Closing tab: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 19:30:39]   extracted content (sections=19, blocks=35, imgs=1, pdfs=0, root=article)
+[2026-01-31 19:30:39]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 19:30:48]   Processing URL (6/10): https://www.engelvoelkers.com/ae/en/resources/top-10-real-estate-developers-in-dubai
+[2026-01-31 19:30:48] Opening new tab for URL: https://www.engelvoelkers.com/ae/en/resources/top-10-real-estate-developers-in-dubai
+[2026-01-31 19:31:06] Closing tab: https://www.engelvoelkers.com/ae/en/resources/top-10-real-estate-developers-in-dubai
+[2026-01-31 19:31:06]   extracted content (sections=43, blocks=263, imgs=147, pdfs=0, root=main)
+[2026-01-31 19:31:06]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 19:31:14]   Processing URL (7/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:31:14] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:31:35] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:31:35]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 19:31:35]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 19:31:36]   Skipping URL (blacklisted domain): https://dubai.dubizzle.com/en/property-for-sale/residential/apartment/in/arjan/81/at/marquis-one/71270/
+[2026-01-31 19:31:36]   Skipping URL (blacklisted domain): https://www.instagram.com/reel/DNxBQPnWI97/
+[2026-01-31 19:31:46]   Processing URL (8/10): https://www.marquispoint.com/home
+[2026-01-31 19:31:46] Opening new tab for URL: https://www.marquispoint.com/home
+[2026-01-31 19:32:04] Closing tab: https://www.marquispoint.com/home
+[2026-01-31 19:32:04]   extracted content (sections=43, blocks=72, imgs=24, pdfs=0, root=body)
+[2026-01-31 19:32:04]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 19:32:05] Project completed: Marquis One — 8 pages processed
+[2026-01-31 19:32:27] 
+[5/100] Project: ETHAN
+[2026-01-31 19:32:27]   Developer: nan
+[2026-01-31 19:32:27]   Google query: ETHAN nan Offplan Project Dubai
+[2026-01-31 19:32:35]   Collected 23 candidate URLs (deduped)
+[2026-01-31 19:33:01]   Processing URL (1/10): https://thepropinvestor.com/projects/ethan-by-griffin/
+[2026-01-31 19:33:01] Opening new tab for URL: https://thepropinvestor.com/projects/ethan-by-griffin/
+[2026-01-31 19:33:16] Closing tab: https://thepropinvestor.com/projects/ethan-by-griffin/
+[2026-01-31 19:33:16]   extracted content (sections=24, blocks=15, imgs=10, pdfs=0, root=main)
+[2026-01-31 19:33:16]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 19:33:16]   Skipping URL (blacklisted domain): https://www.instagram.com/reel/DSu50ExAaBr/
+[2026-01-31 19:33:26]   Processing URL (2/10): https://new-projects.ae/nad-al-sheba-dubai/ethan-villas-prices
+[2026-01-31 19:33:26] Opening new tab for URL: https://new-projects.ae/nad-al-sheba-dubai/ethan-villas-prices
+[2026-01-31 19:33:45] Closing tab: https://new-projects.ae/nad-al-sheba-dubai/ethan-villas-prices
+[2026-01-31 19:33:46]   extracted content (sections=38, blocks=51, imgs=8, pdfs=0, root=body)
+[2026-01-31 19:33:46]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 19:33:56]   Processing URL (3/10): https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/locations-details
+[2026-01-31 19:33:56] Opening new tab for URL: https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/locations-details
+[2026-01-31 19:34:13] Closing tab: https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/locations-details
+[2026-01-31 19:34:13]   extracted content (sections=13, blocks=16, imgs=12, pdfs=0, root=body)
+[2026-01-31 19:34:13]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 19:34:24]   Processing URL (4/10): https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/amenities-details
+[2026-01-31 19:34:24] Opening new tab for URL: https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/amenities-details
+[2026-01-31 19:34:42] Closing tab: https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/amenities-details
+[2026-01-31 19:34:42]   extracted content (sections=12, blocks=17, imgs=11, pdfs=0, root=body)
+[2026-01-31 19:34:42]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 19:34:51]   Processing URL (5/10): https://invest-indubai.com/bayut-al-dar/ethan-residences-at-nad-al-sheba-1
+[2026-01-31 19:34:51] Opening new tab for URL: https://invest-indubai.com/bayut-al-dar/ethan-residences-at-nad-al-sheba-1
+[2026-01-31 19:35:11] Closing tab: https://invest-indubai.com/bayut-al-dar/ethan-residences-at-nad-al-sheba-1
+[2026-01-31 19:35:13]   extracted content (sections=8, blocks=16, imgs=4, pdfs=0, root=body)
+[2026-01-31 19:35:13]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 19:35:14]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/buy/dubai/apartments-for-sale-nad-al-sheba-nad-al-sheba-1-ethan-by-griffin.html
+[2026-01-31 19:35:23]   Processing URL (6/10): https://dxboffplan.com/properties/ethan-nad-al-sheba-1-dubai/
+[2026-01-31 19:35:23] Opening new tab for URL: https://dxboffplan.com/properties/ethan-nad-al-sheba-1-dubai/
+[2026-01-31 19:35:38] Closing tab: https://dxboffplan.com/properties/ethan-nad-al-sheba-1-dubai/
+[2026-01-31 19:35:39]   extracted content (sections=10, blocks=23, imgs=12, pdfs=0, root=div)
+[2026-01-31 19:35:39]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 19:35:39]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/griffin-real-estate-developer/ethan
+[2026-01-31 19:35:47]   Processing URL (7/10): https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/paymentplan-details
+[2026-01-31 19:35:47] Opening new tab for URL: https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/paymentplan-details
+[2026-01-31 19:36:05] Closing tab: https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/paymentplan-details
+[2026-01-31 19:36:05]   extracted content (sections=14, blocks=13, imgs=11, pdfs=0, root=body)
+[2026-01-31 19:36:05]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 19:36:14]   Processing URL (8/10): https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/floorplan-details
+[2026-01-31 19:36:14] Opening new tab for URL: https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/floorplan-details
+[2026-01-31 19:36:33] Closing tab: https://eplogoffplan.com/projects/ethan-apartment-at-nad-al-sheba/floorplan-details
+[2026-01-31 19:36:33]   extracted content (sections=12, blocks=11, imgs=19, pdfs=0, root=body)
+[2026-01-31 19:36:33]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 19:36:43]   Processing URL (9/10): https://grandreverealty.com/projects/ethan-at-nad-al-sheba-dubai-brochure-download/
+[2026-01-31 19:36:43] Opening new tab for URL: https://grandreverealty.com/projects/ethan-at-nad-al-sheba-dubai-brochure-download/
+[2026-01-31 19:37:00] Closing tab: https://grandreverealty.com/projects/ethan-at-nad-al-sheba-dubai-brochure-download/
+[2026-01-31 19:37:00]   extracted content (sections=10, blocks=10, imgs=3, pdfs=0, root=main)
+[2026-01-31 19:37:00]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 19:37:08]   Processing URL (10/10): https://www.offplan-dubai.com/ethan-griffin-development-nad-al-sheba-1/
+[2026-01-31 19:37:08] Opening new tab for URL: https://www.offplan-dubai.com/ethan-griffin-development-nad-al-sheba-1/
+[2026-01-31 19:37:28] Closing tab: https://www.offplan-dubai.com/ethan-griffin-development-nad-al-sheba-1/
+[2026-01-31 19:37:30]   extracted content (sections=48, blocks=33, imgs=146, pdfs=0, root=body)
+[2026-01-31 19:37:30]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 19:37:30] Project completed: ETHAN — 10 pages processed
+[2026-01-31 19:37:50] 
+[6/100] Project: Le Parc Homes
+[2026-01-31 19:37:50]   Developer: nan
+[2026-01-31 19:37:50]   Google query: Le Parc Homes nan Offplan Project Dubai
+[2026-01-31 19:37:57]   Collected 10 candidate URLs (deduped)
+[2026-01-31 19:38:09]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/kbw-real-estate-development/le-parc-homes
+[2026-01-31 19:38:18]   Processing URL (1/10): https://uae-offplan.com/property/le-parc-homes
+[2026-01-31 19:38:18] Opening new tab for URL: https://uae-offplan.com/property/le-parc-homes
+[2026-01-31 19:38:35] Closing tab: https://uae-offplan.com/property/le-parc-homes
+[2026-01-31 19:38:37]   extracted content (sections=47, blocks=181, imgs=45, pdfs=0, root=div)
+[2026-01-31 19:38:37]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 19:38:47]   Processing URL (2/10): https://propsearch.ae/dubai/le-parc-homes-2
+[2026-01-31 19:38:47] Opening new tab for URL: https://propsearch.ae/dubai/le-parc-homes-2
+[2026-01-31 19:39:08] Closing tab: https://propsearch.ae/dubai/le-parc-homes-2
+[2026-01-31 19:39:10]   extracted content (sections=15, blocks=79, imgs=102, pdfs=0, root=body)
+[2026-01-31 19:39:10]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 19:39:10]   Skipping URL (blacklisted domain): https://www.bayut.com/new-projects/dubai/jumeirah-village-circle-jvc/jvc-district-12/le-parc-homes/
+[2026-01-31 19:39:22]   Processing URL (3/10): https://leparcjvc.com/the_project/
+[2026-01-31 19:39:22] Opening new tab for URL: https://leparcjvc.com/the_project/
+[2026-01-31 19:40:38] Closing tab: https://leparcjvc.com/the_project/
+[2026-01-31 19:40:38]   extracted content (sections=4, blocks=9, imgs=43, pdfs=0, root=body)
+[2026-01-31 19:40:38]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 19:40:45]   Processing URL (4/10): https://famproperties.com/faqs/le-parc-homes
+[2026-01-31 19:40:45] Opening new tab for URL: https://famproperties.com/faqs/le-parc-homes
+[2026-01-31 19:41:05] Closing tab: https://famproperties.com/faqs/le-parc-homes
+[2026-01-31 19:41:05]   extracted content (sections=12, blocks=7, imgs=1, pdfs=0, root=main)
+[2026-01-31 19:41:05]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 19:41:12]   Processing URL (5/10): https://www.tanamiproperties.com/Projects/Le-Parc-Homes-2-at-JVC
+[2026-01-31 19:41:12] Opening new tab for URL: https://www.tanamiproperties.com/Projects/Le-Parc-Homes-2-at-JVC
+[2026-01-31 19:41:29] Closing tab: https://www.tanamiproperties.com/Projects/Le-Parc-Homes-2-at-JVC
+[2026-01-31 19:41:30]   extracted content (sections=12, blocks=47, imgs=24, pdfs=0, root=main)
+[2026-01-31 19:41:30]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 19:41:41]   Processing URL (6/10): https://westates.com/property/le-parc-homes-ii/
+[2026-01-31 19:41:41] Opening new tab for URL: https://westates.com/property/le-parc-homes-ii/
+[2026-01-31 19:41:59] Closing tab: https://westates.com/property/le-parc-homes-ii/
+[2026-01-31 19:42:00]   extracted content (sections=12, blocks=45, imgs=79, pdfs=0, root=main)
+[2026-01-31 19:42:00]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 19:42:09]   Processing URL (7/10): https://propsearch.ae/dubai/le-parc-homes
+[2026-01-31 19:42:09] Opening new tab for URL: https://propsearch.ae/dubai/le-parc-homes
+[2026-01-31 19:42:28] Closing tab: https://propsearch.ae/dubai/le-parc-homes
+[2026-01-31 19:42:29]   extracted content (sections=13, blocks=39, imgs=100, pdfs=0, root=body)
+[2026-01-31 19:42:29]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 19:42:30]   Skipping URL (blacklisted domain): https://dubai.dubizzle.com/new-projects/kbw-real-estate-development/le-parc-homes/
+[2026-01-31 19:42:30] Project completed: Le Parc Homes — 7 pages processed
+[2026-01-31 19:42:54] 
+[7/100] Project: Sobha Central Phase I
+[2026-01-31 19:42:54]   Developer: nan
+[2026-01-31 19:42:54]   Google query: Sobha Central Phase I nan Offplan Project Dubai
+[2026-01-31 19:43:05]   Collected 22 candidate URLs (deduped)
+[2026-01-31 19:43:19]   Skipping URL (blacklisted domain): https://www.youtube.com/watch?v=6DFpHGLVBFA
+[2026-01-31 19:43:30]   Processing URL (1/10): https://sobhaupcoming.com/dubai/
+[2026-01-31 19:43:30] Opening new tab for URL: https://sobhaupcoming.com/dubai/
+[2026-01-31 19:43:55] Closing tab: https://sobhaupcoming.com/dubai/
+[2026-01-31 19:43:56]   extracted content (sections=19, blocks=62, imgs=18, pdfs=0, root=body)
+[2026-01-31 19:43:56]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 19:44:08]   Processing URL (2/10): https://www.hausandhaus.com/resources/latest-news-and-insights/off-plan-property-finance-in-dubai-what-buyers-need-to-know/
+[2026-01-31 19:44:08] Opening new tab for URL: https://www.hausandhaus.com/resources/latest-news-and-insights/off-plan-property-finance-in-dubai-what-buyers-need-to-know/
+[2026-01-31 19:44:25] Closing tab: https://www.hausandhaus.com/resources/latest-news-and-insights/off-plan-property-finance-in-dubai-what-buyers-need-to-know/
+[2026-01-31 19:44:25]   extracted content (sections=16, blocks=37, imgs=11, pdfs=0, root=main)
+[2026-01-31 19:44:25]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 19:44:26]   Skipping URL (blacklisted domain): https://www.youtube.com/watch?v=6DFpHGLVBFA&t=393
+[2026-01-31 19:44:37]   Processing URL (3/10): https://symbolic.ae/buy-off-plan-properties-in-dubai-a-complete-step-by-step-guide/
+[2026-01-31 19:44:37] Opening new tab for URL: https://symbolic.ae/buy-off-plan-properties-in-dubai-a-complete-step-by-step-guide/
+[2026-01-31 19:44:56] Closing tab: https://symbolic.ae/buy-off-plan-properties-in-dubai-a-complete-step-by-step-guide/
+[2026-01-31 19:44:56]   extracted content (sections=22, blocks=60, imgs=17, pdfs=0, root=main)
+[2026-01-31 19:44:56]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 19:44:57]   Skipping URL (blacklisted domain): https://www.dubizzle.com/blog/property/dubai-off-plan-construction-timelines/
+[2026-01-31 19:45:05]   Processing URL (4/10): https://dubairealestateus.com/is-it-worth-buying-off-plan-in-dubai/
+[2026-01-31 19:45:05] Opening new tab for URL: https://dubairealestateus.com/is-it-worth-buying-off-plan-in-dubai/
+[2026-01-31 19:45:22] Closing tab: https://dubairealestateus.com/is-it-worth-buying-off-plan-in-dubai/
+[2026-01-31 19:45:22]   extracted content (sections=42, blocks=44, imgs=5, pdfs=0, root=main)
+[2026-01-31 19:45:22]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 19:45:23]   Skipping URL (blacklisted domain): https://www.instagram.com/reel/DSISTpsDJtm/
+[2026-01-31 19:45:31]   Processing URL (5/10): https://anika-property.com/investing-in-sobha-group/
+[2026-01-31 19:45:31] Opening new tab for URL: https://anika-property.com/investing-in-sobha-group/
+[2026-01-31 19:45:50] Closing tab: https://anika-property.com/investing-in-sobha-group/
+[2026-01-31 19:45:51]   extracted content (sections=17, blocks=67, imgs=26, pdfs=0, root=div)
+[2026-01-31 19:45:51]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 19:45:58]   Processing URL (6/10): https://m.eyeofriyadh.com/directory/details/9824_sobha
+[2026-01-31 19:45:58] Opening new tab for URL: https://m.eyeofriyadh.com/directory/details/9824_sobha
+[2026-01-31 19:46:17] Closing tab: https://m.eyeofriyadh.com/directory/details/9824_sobha
+[2026-01-31 19:46:19]   extracted content (sections=14, blocks=17, imgs=33, pdfs=0, root=body)
+[2026-01-31 19:46:19]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 19:46:19]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/dev/sobha-realty
+[2026-01-31 19:46:31]   Processing URL (7/10): https://sobharealty.com/properties-in-dubai
+[2026-01-31 19:46:31] Opening new tab for URL: https://sobharealty.com/properties-in-dubai
+[2026-01-31 19:46:57] Closing tab: https://sobharealty.com/properties-in-dubai
+[2026-01-31 19:47:03]   extracted content (sections=262, blocks=210, imgs=415, pdfs=0, root=body)
+[2026-01-31 19:47:03]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 19:47:14]   Processing URL (8/10): https://uae-offplan.com/property/sobha-central
+[2026-01-31 19:47:14] Opening new tab for URL: https://uae-offplan.com/property/sobha-central
+[2026-01-31 19:47:32] Closing tab: https://uae-offplan.com/property/sobha-central
+[2026-01-31 19:47:35]   extracted content (sections=84, blocks=314, imgs=106, pdfs=0, root=div)
+[2026-01-31 19:47:35]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 19:47:47]   Processing URL (9/10): https://dubaihousing.liveblog365.com/off-plan-properties-in-sobha-central-with-payment-plans/
+[2026-01-31 19:47:47] Opening new tab for URL: https://dubaihousing.liveblog365.com/off-plan-properties-in-sobha-central-with-payment-plans/
+[2026-01-31 19:48:04] Closing tab: https://dubaihousing.liveblog365.com/off-plan-properties-in-sobha-central-with-payment-plans/
+[2026-01-31 19:48:05]   extracted content (sections=11, blocks=25, imgs=5, pdfs=0, root=main)
+[2026-01-31 19:48:05]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 19:48:14]   Processing URL (10/10): https://ae.indeed.com/cmp/Sobha-Limited/salaries
+[2026-01-31 19:48:14] Opening new tab for URL: https://ae.indeed.com/cmp/Sobha-Limited/salaries
+[2026-01-31 19:48:30] Closing tab: https://ae.indeed.com/cmp/Sobha-Limited/salaries
+[2026-01-31 19:48:30]   extracted content (sections=12, blocks=14, imgs=0, pdfs=0, root=main)
+[2026-01-31 19:48:30]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 19:48:31] Project completed: Sobha Central Phase I — 10 pages processed
+[2026-01-31 19:48:48] 
+[8/100] Project: La Vue Parc
+[2026-01-31 19:48:48]   Developer: nan
+[2026-01-31 19:48:48]   Google query: La Vue Parc nan Offplan Project Dubai
+[2026-01-31 19:48:59]   Collected 23 candidate URLs (deduped)
+[2026-01-31 19:49:08]   Skipping URL (blacklisted domain): https://www.instagram.com/reel/DJ_4imAJDvL/?hl=en
+[2026-01-31 19:49:19]   Processing URL (1/10): https://www.binayah.com/dubai-projects/la-vue-residence-by-maaia/video/
+[2026-01-31 19:49:19] Opening new tab for URL: https://www.binayah.com/dubai-projects/la-vue-residence-by-maaia/video/
+[2026-01-31 19:49:41] Closing tab: https://www.binayah.com/dubai-projects/la-vue-residence-by-maaia/video/
+[2026-01-31 19:49:42]   extracted content (sections=4, blocks=19, imgs=1, pdfs=0, root=main)
+[2026-01-31 19:49:42]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 19:49:43]   Skipping URL (blacklisted domain): https://www.instagram.com/reel/DPdTEr9khWw/
+[2026-01-31 19:49:43]   Skipping URL (blacklisted domain): https://www.instagram.com/reel/DQ6euGwin6W/
+[2026-01-31 19:49:52]   Processing URL (2/10): https://theleadmarketing.com/la-vue-by-maaia-developers/
+[2026-01-31 19:49:52] Opening new tab for URL: https://theleadmarketing.com/la-vue-by-maaia-developers/
+[2026-01-31 19:50:12] Closing tab: https://theleadmarketing.com/la-vue-by-maaia-developers/
+[2026-01-31 19:50:12]   extracted content (sections=34, blocks=40, imgs=32, pdfs=0, root=body)
+[2026-01-31 19:50:12]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 19:50:13]   Skipping URL (blacklisted domain): https://dubai.dubizzle.com/new-projects/maaia-developers/la-vue-by-maaia/
+[2026-01-31 19:50:13]   Skipping URL (blacklisted domain): https://www.bayut.com/new-projects/dubai/nad-al-sheba/nadd-al-shiba-1/nad-al-sheba-gardens/nad-al-sheba-gardens-1/la-vue-by-maaia/
+[2026-01-31 19:50:24]   Processing URL (3/10): https://famproperties.com/off-plan-projects-nad-al-sheba-dubai
+[2026-01-31 19:50:24] Opening new tab for URL: https://famproperties.com/off-plan-projects-nad-al-sheba-dubai
+[2026-01-31 19:50:43] Closing tab: https://famproperties.com/off-plan-projects-nad-al-sheba-dubai
+[2026-01-31 19:50:43]   extracted content (sections=2, blocks=5, imgs=0, pdfs=0, root=main)
+[2026-01-31 19:50:43]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 19:50:52]   Processing URL (4/10): https://offplanprops.com/offplan/la-vue/
+[2026-01-31 19:50:52] Opening new tab for URL: https://offplanprops.com/offplan/la-vue/
+[2026-01-31 19:51:10] Closing tab: https://offplanprops.com/offplan/la-vue/
+[2026-01-31 19:51:10]   extracted content (sections=12, blocks=22, imgs=24, pdfs=0, root=main)
+[2026-01-31 19:51:10]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 19:51:11]   Skipping URL (blacklisted domain): https://www.facebook.com/globalhomz/posts/-la-vue-at-nad-al-sheba-gardensby-maaia-developmentsexperience-refined-living-in/122275387328194086/
+[2026-01-31 19:51:11]   Skipping URL (blacklisted domain): https://www.instagram.com/pershant.dxb/p/DThne50kncJ/?hl=ja
+[2026-01-31 19:51:17]   Processing URL (5/10): https://dubairealestateus.com/is-it-worth-buying-off-plan-in-dubai/
+[2026-01-31 19:51:17] Opening new tab for URL: https://dubairealestateus.com/is-it-worth-buying-off-plan-in-dubai/
+[2026-01-31 19:51:33] Closing tab: https://dubairealestateus.com/is-it-worth-buying-off-plan-in-dubai/
+[2026-01-31 19:51:33]   extracted content (sections=42, blocks=44, imgs=5, pdfs=0, root=main)
+[2026-01-31 19:51:33]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 19:51:42]   Processing URL (6/10): https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:51:42] Opening new tab for URL: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:52:00] Closing tab: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 19:52:01]   extracted content (sections=3, blocks=7, imgs=0, pdfs=0, root=main)
+[2026-01-31 19:52:01]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 19:52:10]   Processing URL (7/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:52:10] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:52:28] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 19:52:29]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 19:52:29]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 19:52:36]   Processing URL (8/10): https://www.engelvoelkers.com/ae/en/resources/top-10-real-estate-developers-in-dubai
+[2026-01-31 19:52:36] Opening new tab for URL: https://www.engelvoelkers.com/ae/en/resources/top-10-real-estate-developers-in-dubai
+[2026-01-31 19:52:53] Closing tab: https://www.engelvoelkers.com/ae/en/resources/top-10-real-estate-developers-in-dubai
+[2026-01-31 19:52:53]   extracted content (sections=43, blocks=263, imgs=147, pdfs=0, root=main)
+[2026-01-31 19:52:53]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 19:52:54]   Skipping URL (blacklisted domain): https://www.facebook.com/100083949063044/videos/la-vue-by-maaia-european-designed-apartments-in-nad-al-sheba-gardens/1596311721595715/
+[2026-01-31 19:53:04]   Processing URL (9/10): https://www.offplan-dubai.com/la-vue-maaia-developers-meydan-nad-al-sheba-1/
+[2026-01-31 19:53:04] Opening new tab for URL: https://www.offplan-dubai.com/la-vue-maaia-developers-meydan-nad-al-sheba-1/
+[2026-01-31 19:54:36] Closing tab: https://www.offplan-dubai.com/la-vue-maaia-developers-meydan-nad-al-sheba-1/
+[2026-01-31 19:54:36]   extracted content (sections=6, blocks=4, imgs=26, pdfs=0, root=body)
+[2026-01-31 19:54:36]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 19:54:47]   Processing URL (10/10): https://offplanpropertiesdubai.ae/projects/la-vue-by-maaia-dubai/
+[2026-01-31 19:54:47] Opening new tab for URL: https://offplanpropertiesdubai.ae/projects/la-vue-by-maaia-dubai/
+[2026-01-31 19:55:09] Closing tab: https://offplanpropertiesdubai.ae/projects/la-vue-by-maaia-dubai/
+[2026-01-31 19:55:11]   extracted content (sections=28, blocks=40, imgs=34, pdfs=0, root=body)
+[2026-01-31 19:55:11]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 19:55:12] Project completed: La Vue Parc — 10 pages processed
+[2026-01-31 19:55:32] 
+[9/100] Project: MAISON MARGIELA RESIDENCES
+[2026-01-31 19:55:32]   Developer: nan
+[2026-01-31 19:55:32]   Google query: MAISON MARGIELA RESIDENCES nan Offplan Project Dubai
+[2026-01-31 19:55:41]   Collected 10 candidate URLs (deduped)
+[2026-01-31 19:55:58]   Processing URL (1/10): https://www.maisonmargiela.com/wx/Maison_Margiela_Residences.html
+[2026-01-31 19:55:58] Opening new tab for URL: https://www.maisonmargiela.com/wx/Maison_Margiela_Residences.html
+[2026-01-31 19:56:17] Closing tab: https://www.maisonmargiela.com/wx/Maison_Margiela_Residences.html
+[2026-01-31 19:56:18]   extracted content (sections=1, blocks=2, imgs=13, pdfs=0, root=main)
+[2026-01-31 19:56:18]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 19:56:29]   Processing URL (2/10): https://www.dezeen.com/2025/12/09/maison-margiela-residential-dubai/
+[2026-01-31 19:56:29] Opening new tab for URL: https://www.dezeen.com/2025/12/09/maison-margiela-residential-dubai/
+[2026-01-31 19:56:50] Closing tab: https://www.dezeen.com/2025/12/09/maison-margiela-residential-dubai/
+[2026-01-31 19:56:50]   extracted content (sections=13, blocks=41, imgs=138, pdfs=0, root=main)
+[2026-01-31 19:56:50]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 19:56:51]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/alta-real-estate-developments/maison-margiela-residences
+[2026-01-31 19:56:58]   Processing URL (3/10): https://maison-margiela-residences.com/
+[2026-01-31 19:56:58] Opening new tab for URL: https://maison-margiela-residences.com/
+[2026-01-31 19:57:13] Closing tab: https://maison-margiela-residences.com/
+[2026-01-31 19:57:13]   extracted content (sections=2, blocks=9, imgs=0, pdfs=0, root=body)
+[2026-01-31 19:57:13]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 19:57:23]   Processing URL (4/10): https://www.voguearabia.com/article/maison-margiela-residences-debuts-in-dubai-with-high-style
+[2026-01-31 19:57:23] Opening new tab for URL: https://www.voguearabia.com/article/maison-margiela-residences-debuts-in-dubai-with-high-style
+[2026-01-31 19:57:45] Closing tab: https://www.voguearabia.com/article/maison-margiela-residences-debuts-in-dubai-with-high-style
+[2026-01-31 19:57:46]   extracted content (sections=2, blocks=14, imgs=46, pdfs=0, root=main)
+[2026-01-31 19:57:46]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 19:57:56]   Processing URL (5/10): https://providentestate.com/new-projects/in-maison-margiela-residence/type-apartment/
+[2026-01-31 19:57:56] Opening new tab for URL: https://providentestate.com/new-projects/in-maison-margiela-residence/type-apartment/
+[2026-01-31 19:58:12] Closing tab: https://providentestate.com/new-projects/in-maison-margiela-residence/type-apartment/
+[2026-01-31 19:58:12]   extracted content (sections=1, blocks=19, imgs=24, pdfs=0, root=div)
+[2026-01-31 19:58:12]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 19:58:21]   Processing URL (6/10): https://maisonmargielaresidences.com/
+[2026-01-31 19:58:21] Opening new tab for URL: https://maisonmargielaresidences.com/
+[2026-01-31 19:58:40] Closing tab: https://maisonmargielaresidences.com/
+[2026-01-31 19:58:42]   extracted content (sections=27, blocks=25, imgs=34, pdfs=0, root=body)
+[2026-01-31 19:58:42]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 19:58:55]   Processing URL (7/10): https://www.admiddleeast.com/story/inside-the-maison-margiela-residences-in-dubai-by-architect-carlo-colombo
+[2026-01-31 19:58:55] Opening new tab for URL: https://www.admiddleeast.com/story/inside-the-maison-margiela-residences-in-dubai-by-architect-carlo-colombo
+[2026-01-31 19:59:14] Closing tab: https://www.admiddleeast.com/story/inside-the-maison-margiela-residences-in-dubai-by-architect-carlo-colombo
+[2026-01-31 19:59:14]   extracted content (sections=2, blocks=11, imgs=91, pdfs=0, root=main)
+[2026-01-31 19:59:14]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 19:59:27]   Processing URL (8/10): https://dxboffplan.com/properties/maison-margiela-residence-palm-jumeirah-dubai/
+[2026-01-31 19:59:27] Opening new tab for URL: https://dxboffplan.com/properties/maison-margiela-residence-palm-jumeirah-dubai/
+[2026-01-31 19:59:47] Closing tab: https://dxboffplan.com/properties/maison-margiela-residence-palm-jumeirah-dubai/
+[2026-01-31 19:59:47]   extracted content (sections=11, blocks=28, imgs=12, pdfs=0, root=div)
+[2026-01-31 19:59:47]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 19:59:56]   Processing URL (9/10): https://altadevelopment.ae/maison-margiela-launches-first-residential-project-in-dubai/
+[2026-01-31 19:59:56] Opening new tab for URL: https://altadevelopment.ae/maison-margiela-launches-first-residential-project-in-dubai/
+[2026-01-31 20:00:16] Closing tab: https://altadevelopment.ae/maison-margiela-launches-first-residential-project-in-dubai/
+[2026-01-31 20:00:16]   extracted content (sections=8, blocks=19, imgs=4, pdfs=0, root=body)
+[2026-01-31 20:00:16]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 20:00:17] Project completed: MAISON MARGIELA RESIDENCES — 9 pages processed
+[2026-01-31 20:00:39] 
+[10/100] Project: Ashley Hills
+[2026-01-31 20:00:39]   Developer: nan
+[2026-01-31 20:00:39]   Google query: Ashley Hills nan Offplan Project Dubai
+[2026-01-31 20:00:49]   Collected 22 candidate URLs (deduped)
+[2026-01-31 20:01:06]   Processing URL (1/10): https://www.dnkre.com/projects/ashley-hills-at-arjan
+[2026-01-31 20:01:06] Opening new tab for URL: https://www.dnkre.com/projects/ashley-hills-at-arjan
+[2026-01-31 20:01:22] Closing tab: https://www.dnkre.com/projects/ashley-hills-at-arjan
+[2026-01-31 20:01:23]   extracted content (sections=55, blocks=89, imgs=138, pdfs=0, root=body)
+[2026-01-31 20:01:23]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 20:01:31]   Processing URL (2/10): https://stageproperties.com/offplan/dubai/arjan/property/ashley-hills
+[2026-01-31 20:01:31] Opening new tab for URL: https://stageproperties.com/offplan/dubai/arjan/property/ashley-hills
+[2026-01-31 20:01:49] Closing tab: https://stageproperties.com/offplan/dubai/arjan/property/ashley-hills
+[2026-01-31 20:01:51]   extracted content (sections=21, blocks=52, imgs=409, pdfs=0, root=body)
+[2026-01-31 20:01:51]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 20:01:52]   Skipping direct PDF: https://manage.tanamiproperties.com/Project/Brochure/2989/Ashley_Hills_at_Arjan.pdf
+[2026-01-31 20:02:00]   Processing URL (3/10): https://www.mepmiddleeast.com/news/townx-announces-project-ashley-hills
+[2026-01-31 20:02:00] Opening new tab for URL: https://www.mepmiddleeast.com/news/townx-announces-project-ashley-hills
+[2026-01-31 20:02:17] Closing tab: https://www.mepmiddleeast.com/news/townx-announces-project-ashley-hills
+[2026-01-31 20:02:18]   extracted content (sections=22, blocks=15, imgs=58, pdfs=0, root=main)
+[2026-01-31 20:02:18]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 20:02:25]   Processing URL (4/10): https://grandreverealty.com/projects/ashley-hills/
+[2026-01-31 20:02:25] Opening new tab for URL: https://grandreverealty.com/projects/ashley-hills/
+[2026-01-31 20:02:41] Closing tab: https://grandreverealty.com/projects/ashley-hills/
+[2026-01-31 20:02:42]   extracted content (sections=20, blocks=25, imgs=14, pdfs=0, root=main)
+[2026-01-31 20:02:42]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 20:02:43]   Skipping URL (blacklisted domain): https://www.bayut.com/for-sale/apartments/dubai/arjan/ashley-hills/
+[2026-01-31 20:02:54]   Processing URL (5/10): https://www.binayah.com/dubai-projects/ashley-hills-at-arjan/
+[2026-01-31 20:02:54] Opening new tab for URL: https://www.binayah.com/dubai-projects/ashley-hills-at-arjan/
+[2026-01-31 20:03:25] Closing tab: https://www.binayah.com/dubai-projects/ashley-hills-at-arjan/
+[2026-01-31 20:03:27]   extracted content (sections=25, blocks=64, imgs=23, pdfs=0, root=main)
+[2026-01-31 20:03:27]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 20:03:28]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/townx-real-estate-development/ashley-hills
+[2026-01-31 20:03:28]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-arjan-ashley-hills-16202053.html
+[2026-01-31 20:03:39]   Processing URL (6/10): https://townx.com/our-properties/ashley-hills/
+[2026-01-31 20:03:39] Opening new tab for URL: https://townx.com/our-properties/ashley-hills/
+[2026-01-31 20:03:58] Closing tab: https://townx.com/our-properties/ashley-hills/
+[2026-01-31 20:03:59]   extracted content (sections=13, blocks=23, imgs=101, pdfs=0, root=main)
+[2026-01-31 20:03:59]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 20:04:07]   Processing URL (7/10): https://dxboffplan.com/properties/ashley-hills-arjan-dubai/
+[2026-01-31 20:04:07] Opening new tab for URL: https://dxboffplan.com/properties/ashley-hills-arjan-dubai/
+[2026-01-31 20:04:23] Closing tab: https://dxboffplan.com/properties/ashley-hills-arjan-dubai/
+[2026-01-31 20:04:23]   extracted content (sections=8, blocks=24, imgs=12, pdfs=0, root=div)
+[2026-01-31 20:04:23]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 20:04:31]   Processing URL (8/10): https://www.tanamiproperties.com/Projects/Ashley-Hills-at-Arjan
+[2026-01-31 20:04:31] Opening new tab for URL: https://www.tanamiproperties.com/Projects/Ashley-Hills-at-Arjan
+[2026-01-31 20:04:45] Closing tab: https://www.tanamiproperties.com/Projects/Ashley-Hills-at-Arjan
+[2026-01-31 20:04:46]   extracted content (sections=14, blocks=53, imgs=25, pdfs=0, root=main)
+[2026-01-31 20:04:46]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 20:04:55]   Processing URL (9/10): https://providentestate.com/buy/2-bedroom-apartment-for-sale-in-ashley-hills-arjan-dubai22169/
+[2026-01-31 20:04:55] Opening new tab for URL: https://providentestate.com/buy/2-bedroom-apartment-for-sale-in-ashley-hills-arjan-dubai22169/
+[2026-01-31 20:05:13] Closing tab: https://providentestate.com/buy/2-bedroom-apartment-for-sale-in-ashley-hills-arjan-dubai22169/
+[2026-01-31 20:05:14]   extracted content (sections=1, blocks=19, imgs=24, pdfs=0, root=div)
+[2026-01-31 20:05:14]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 20:05:26]   Processing URL (10/10): https://eplogoffplan.com/projects/ashley-hills-apartments-by-townx-real-estate
+[2026-01-31 20:05:26] Opening new tab for URL: https://eplogoffplan.com/projects/ashley-hills-apartments-by-townx-real-estate
+[2026-01-31 20:05:46] Closing tab: https://eplogoffplan.com/projects/ashley-hills-apartments-by-townx-real-estate
+[2026-01-31 20:05:47]   extracted content (sections=20, blocks=97, imgs=64, pdfs=0, root=body)
+[2026-01-31 20:05:47]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 20:05:48] Project completed: Ashley Hills — 10 pages processed
+[2026-01-31 20:06:04] 
+[11/100] Project: Binghatti Skyblade
+[2026-01-31 20:06:04]   Developer: nan
+[2026-01-31 20:06:04]   Google query: Binghatti Skyblade nan Offplan Project Dubai
+[2026-01-31 20:06:15]   Collected 12 candidate URLs (deduped)
+[2026-01-31 20:06:31]   Processing URL (1/10): https://www.binghatti.com/en/projects/binghatti-skyblade
+[2026-01-31 20:06:31] Opening new tab for URL: https://www.binghatti.com/en/projects/binghatti-skyblade
+[2026-01-31 20:06:47] Closing tab: https://www.binghatti.com/en/projects/binghatti-skyblade
+[2026-01-31 20:06:48]   extracted content (sections=59, blocks=21, imgs=39, pdfs=0, root=body)
+[2026-01-31 20:06:48]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 20:06:59]   Processing URL (2/10): https://off-planproperties.ae/projects/binghatti-skyblade-downtown-dubai/
+[2026-01-31 20:06:59] Opening new tab for URL: https://off-planproperties.ae/projects/binghatti-skyblade-downtown-dubai/
+[2026-01-31 20:07:18] Closing tab: https://off-planproperties.ae/projects/binghatti-skyblade-downtown-dubai/
+[2026-01-31 20:07:19]   extracted content (sections=35, blocks=71, imgs=21, pdfs=0, root=article)
+[2026-01-31 20:07:19]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 20:07:31]   Processing URL (3/10): https://www.binghatti.com/en/projects
+[2026-01-31 20:07:31] Opening new tab for URL: https://www.binghatti.com/en/projects
+[2026-01-31 20:07:50] Closing tab: https://www.binghatti.com/en/projects
+[2026-01-31 20:07:51]   extracted content (sections=41, blocks=40, imgs=42, pdfs=0, root=body)
+[2026-01-31 20:07:51]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 20:08:03]   Processing URL (4/10): https://investindxb.com/property/binghatti-skyblade-residences-downtown-dubai-burj-khalifa-district-dubai-binghatti/
+[2026-01-31 20:08:03] Opening new tab for URL: https://investindxb.com/property/binghatti-skyblade-residences-downtown-dubai-burj-khalifa-district-dubai-binghatti/
+[2026-01-31 20:08:23] Closing tab: https://investindxb.com/property/binghatti-skyblade-residences-downtown-dubai-burj-khalifa-district-dubai-binghatti/
+[2026-01-31 20:08:24]   extracted content (sections=21, blocks=58, imgs=10, pdfs=2, root=div)
+[2026-01-31 20:08:24]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 20:08:25]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/dev/binghatti-developers/dubai/downtown-dubai
+[2026-01-31 20:08:35]   Processing URL (5/10): https://propsearch.ae/dubai/binghatti-skyblade
+[2026-01-31 20:08:35] Opening new tab for URL: https://propsearch.ae/dubai/binghatti-skyblade
+[2026-01-31 20:08:52] Closing tab: https://propsearch.ae/dubai/binghatti-skyblade
+[2026-01-31 20:08:54]   extracted content (sections=15, blocks=82, imgs=89, pdfs=0, root=body)
+[2026-01-31 20:08:54]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 20:09:07]   Processing URL (6/10): https://www.banke.ae/binghatti-skyblade/
+[2026-01-31 20:09:07] Opening new tab for URL: https://www.banke.ae/binghatti-skyblade/
+[2026-01-31 20:10:23] Closing tab: https://www.banke.ae/binghatti-skyblade/
+[2026-01-31 20:10:24]   extracted content (sections=2, blocks=4, imgs=0, pdfs=0, root=div)
+[2026-01-31 20:10:24]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 20:10:32]   Processing URL (7/10): https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:10:32] Opening new tab for URL: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:10:58] Closing tab: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:11:01]   extracted content (sections=31, blocks=71, imgs=125, pdfs=0, root=body)
+[2026-01-31 20:11:01]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 20:11:13]   Processing URL (8/10): https://whitecollarrealty.com/residential_property/binghatti-skyblade
+[2026-01-31 20:11:13] Opening new tab for URL: https://whitecollarrealty.com/residential_property/binghatti-skyblade
+[2026-01-31 20:11:31] Closing tab: https://whitecollarrealty.com/residential_property/binghatti-skyblade
+[2026-01-31 20:11:32]   extracted content (sections=25, blocks=38, imgs=12, pdfs=0, root=body)
+[2026-01-31 20:11:32]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 20:11:43]   Processing URL (9/10): https://famproperties.com/downtown-dubai/binghatti-skyblade-prices
+[2026-01-31 20:11:43] Opening new tab for URL: https://famproperties.com/downtown-dubai/binghatti-skyblade-prices
+[2026-01-31 20:12:01] Closing tab: https://famproperties.com/downtown-dubai/binghatti-skyblade-prices
+[2026-01-31 20:12:02]   extracted content (sections=23, blocks=37, imgs=26, pdfs=0, root=main)
+[2026-01-31 20:12:02]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 20:12:13]   Processing URL (10/10): https://prelaunch.ae/how-binghatti-skyblades-60-40-payment-plan-unlocks-luxury-living-in-downtown-dubai/
+[2026-01-31 20:12:13] Opening new tab for URL: https://prelaunch.ae/how-binghatti-skyblades-60-40-payment-plan-unlocks-luxury-living-in-downtown-dubai/
+[2026-01-31 20:12:34] Closing tab: https://prelaunch.ae/how-binghatti-skyblades-60-40-payment-plan-unlocks-luxury-living-in-downtown-dubai/
+[2026-01-31 20:12:35]   extracted content (sections=24, blocks=39, imgs=34, pdfs=0, root=body)
+[2026-01-31 20:12:35]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 20:12:36] Project completed: Binghatti Skyblade — 10 pages processed
+[2026-01-31 20:12:57] 
+[12/100] Project: البا تاور
+[2026-01-31 20:12:57]   Developer: nan
+[2026-01-31 20:12:57]   Google query: البا تاور nan Offplan Project Dubai
+[2026-01-31 20:13:05]   Collected 17 candidate URLs (deduped)
+[2026-01-31 20:13:19]   Skipping URL (blacklisted domain): https://www.bayut.com/for-sale/property/dubai/al-satwa/jumeirah-garden-city/alba-tower/
+[2026-01-31 20:13:29]   Processing URL (1/10): https://offplanpropertiesdubai.ae/projects/alba-tower-in-al-satwa/
+[2026-01-31 20:13:29] Opening new tab for URL: https://offplanpropertiesdubai.ae/projects/alba-tower-in-al-satwa/
+[2026-01-31 20:13:49] Closing tab: https://offplanpropertiesdubai.ae/projects/alba-tower-in-al-satwa/
+[2026-01-31 20:13:51]   extracted content (sections=33, blocks=48, imgs=25, pdfs=0, root=body)
+[2026-01-31 20:13:51]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 20:14:02]   Processing URL (2/10): https://www.binayah.com/dubai-projects/alba-tower/
+[2026-01-31 20:14:02] Opening new tab for URL: https://www.binayah.com/dubai-projects/alba-tower/
+[2026-01-31 20:14:20] Closing tab: https://www.binayah.com/dubai-projects/alba-tower/
+[2026-01-31 20:14:22]   extracted content (sections=25, blocks=64, imgs=30, pdfs=0, root=main)
+[2026-01-31 20:14:22]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 20:14:34]   Processing URL (3/10): https://www.drivenproperties.com/dubai/off-plan-projects/the-alba-residences
+[2026-01-31 20:14:34] Opening new tab for URL: https://www.drivenproperties.com/dubai/off-plan-projects/the-alba-residences
+[2026-01-31 20:14:49] Closing tab: https://www.drivenproperties.com/dubai/off-plan-projects/the-alba-residences
+[2026-01-31 20:14:50]   extracted content (sections=21, blocks=40, imgs=29, pdfs=0, root=main)
+[2026-01-31 20:14:50]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 20:15:02]   Processing URL (4/10): https://uae-offplan.com/property/alba-tower
+[2026-01-31 20:15:02] Opening new tab for URL: https://uae-offplan.com/property/alba-tower
+[2026-01-31 20:15:19] Closing tab: https://uae-offplan.com/property/alba-tower
+[2026-01-31 20:15:21]   extracted content (sections=76, blocks=313, imgs=144, pdfs=0, root=div)
+[2026-01-31 20:15:21]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 20:15:29]   Processing URL (5/10): https://www.drivenproperties.com/dubai/off-plan-projects/bayn-lagoon
+[2026-01-31 20:15:29] Opening new tab for URL: https://www.drivenproperties.com/dubai/off-plan-projects/bayn-lagoon
+[2026-01-31 20:15:45] Closing tab: https://www.drivenproperties.com/dubai/off-plan-projects/bayn-lagoon
+[2026-01-31 20:15:46]   extracted content (sections=21, blocks=40, imgs=21, pdfs=0, root=main)
+[2026-01-31 20:15:46]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 20:15:53]   Processing URL (6/10): https://emirates.estate/property/al-habtoor-tower-287640/
+[2026-01-31 20:15:53] Opening new tab for URL: https://emirates.estate/property/al-habtoor-tower-287640/
+[2026-01-31 20:16:16] Closing tab: https://emirates.estate/property/al-habtoor-tower-287640/
+[2026-01-31 20:16:17]   extracted content (sections=1, blocks=13, imgs=40, pdfs=0, root=div)
+[2026-01-31 20:16:17]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 20:16:27]   Processing URL (7/10): https://www.bhomes.com/en/off-plan
+[2026-01-31 20:16:27] Opening new tab for URL: https://www.bhomes.com/en/off-plan
+[2026-01-31 20:16:45] Closing tab: https://www.bhomes.com/en/off-plan
+[2026-01-31 20:16:45]   extracted content (sections=25, blocks=104, imgs=386, pdfs=0, root=main)
+[2026-01-31 20:16:45]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 20:16:58]   Processing URL (8/10): https://excelproperties.ae/offplan/alba-tower-al-satwa
+[2026-01-31 20:16:58] Opening new tab for URL: https://excelproperties.ae/offplan/alba-tower-al-satwa
+[2026-01-31 20:17:14] Closing tab: https://excelproperties.ae/offplan/alba-tower-al-satwa
+[2026-01-31 20:17:15]   extracted content (sections=11, blocks=61, imgs=78, pdfs=0, root=main)
+[2026-01-31 20:17:15]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 20:17:23]   Processing URL (9/10): https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:17:23] Opening new tab for URL: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:17:36] Closing tab: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:17:36]   extracted content (sections=19, blocks=35, imgs=1, pdfs=0, root=article)
+[2026-01-31 20:17:36]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 20:17:38]   Skipping URL (blacklisted domain): https://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Dubai)
+[2026-01-31 20:17:49]   Processing URL (10/10): https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:17:49] Opening new tab for URL: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:18:11] Closing tab: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:18:12]   extracted content (sections=27, blocks=46, imgs=14, pdfs=0, root=div)
+[2026-01-31 20:18:12]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 20:18:14] Project completed: البا تاور — 10 pages processed
+[2026-01-31 20:18:28] 
+[13/100] Project: Waada - Cascada 2
+[2026-01-31 20:18:28]   Developer: nan
+[2026-01-31 20:18:28]   Google query: Waada - Cascada 2 nan Offplan Project Dubai
+[2026-01-31 20:18:39]   Collected 22 candidate URLs (deduped)
+[2026-01-31 20:18:49]   Skipping URL (blacklisted domain): https://www.youtube.com/watch?v=2Ss189OPNb0
+[2026-01-31 20:18:49]   Skipping URL (blacklisted domain): https://www.instagram.com/reel/DPYd_FYioHG/?hl=en
+[2026-01-31 20:18:49]   Skipping URL (blacklisted domain): https://www.youtube.com/watch?v=1e0FPFaP3Vs
+[2026-01-31 20:18:49]   Skipping URL (blacklisted domain): https://www.facebook.com/mpddubai/videos/an-eiffel-tower-rising-in-dubai-yes-waada-by-bt-properties-brings-a-full-master-/1368915318021992/
+[2026-01-31 20:18:49]   Skipping URL (blacklisted domain): https://dubai.dubizzle.com/new-projects/bt-properties-dwc-llc/cascada-2/
+[2026-01-31 20:18:58]   Processing URL (1/10): https://avriniproperties.com/projects/cascada-2-at-waada
+[2026-01-31 20:18:58] Opening new tab for URL: https://avriniproperties.com/projects/cascada-2-at-waada
+[2026-01-31 20:19:20] Closing tab: https://avriniproperties.com/projects/cascada-2-at-waada
+[2026-01-31 20:19:22]   extracted content (sections=6, blocks=12, imgs=7, pdfs=0, root=div)
+[2026-01-31 20:19:22]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 20:19:29]   Processing URL (2/10): https://gccoffplan.com/project/cascada-at-waada/
+[2026-01-31 20:19:29] Opening new tab for URL: https://gccoffplan.com/project/cascada-at-waada/
+[2026-01-31 20:19:45] Closing tab: https://gccoffplan.com/project/cascada-at-waada/
+[2026-01-31 20:19:45]   extracted content (sections=12, blocks=19, imgs=14, pdfs=3, root=div)
+[2026-01-31 20:19:45]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 20:19:47]   Skipping URL (blacklisted domain): https://www.bayut.com/for-sale/off-plan/apartments/dubai/dubai-south/waada/cascada/
+[2026-01-31 20:19:47]   Skipping URL (blacklisted domain): https://www.instagram.com/p/DQ7CdnzjYq_/
+[2026-01-31 20:19:54]   Processing URL (3/10): https://easyfirstproperties.com/projects/cascada-2-at-waada
+[2026-01-31 20:19:54] Opening new tab for URL: https://easyfirstproperties.com/projects/cascada-2-at-waada
+[2026-01-31 20:20:14] Closing tab: https://easyfirstproperties.com/projects/cascada-2-at-waada
+[2026-01-31 20:20:16]   extracted content (sections=6, blocks=12, imgs=7, pdfs=0, root=div)
+[2026-01-31 20:20:16]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 20:20:27]   Processing URL (4/10): https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:20:27] Opening new tab for URL: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:20:50] Closing tab: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:20:52]   extracted content (sections=31, blocks=71, imgs=125, pdfs=0, root=body)
+[2026-01-31 20:20:52]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 20:21:00]   Processing URL (5/10): https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:21:00] Opening new tab for URL: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:21:17] Closing tab: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:21:18]   extracted content (sections=3, blocks=7, imgs=0, pdfs=0, root=main)
+[2026-01-31 20:21:18]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 20:21:27]   Processing URL (6/10): https://famproperties.com/advice/what-happens-if-an-investor-pays-more-than-the-project-s-progress-but-the-project-hasn-t-started-is-under-cancellation-or-has-been-cancelled
+[2026-01-31 20:21:27] Opening new tab for URL: https://famproperties.com/advice/what-happens-if-an-investor-pays-more-than-the-project-s-progress-but-the-project-hasn-t-started-is-under-cancellation-or-has-been-cancelled
+[2026-01-31 20:21:44] Closing tab: https://famproperties.com/advice/what-happens-if-an-investor-pays-more-than-the-project-s-progress-but-the-project-hasn-t-started-is-under-cancellation-or-has-been-cancelled
+[2026-01-31 20:21:44]   extracted content (sections=4, blocks=13, imgs=0, pdfs=0, root=main)
+[2026-01-31 20:21:44]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 20:21:54]   Processing URL (7/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:21:54] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:22:17] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:22:17]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 20:22:17]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 20:22:19]   Skipping URL (blacklisted domain): https://www.bayut.com/new-projects/dubai/dubai-south/waada/
+[2026-01-31 20:22:25]   Processing URL (8/10): https://regenteliteproperties.com/property/cascada/
+[2026-01-31 20:22:25] Opening new tab for URL: https://regenteliteproperties.com/property/cascada/
+[2026-01-31 20:22:47] Closing tab: https://regenteliteproperties.com/property/cascada/
+[2026-01-31 20:22:47]   extracted content (sections=13, blocks=36, imgs=21, pdfs=0, root=main)
+[2026-01-31 20:22:47]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 20:22:56]   Processing URL (9/10): https://eplogoffplan.com/projects/cascada-1-apartments-by-bt-properties
+[2026-01-31 20:22:56] Opening new tab for URL: https://eplogoffplan.com/projects/cascada-1-apartments-by-bt-properties
+[2026-01-31 20:23:22] Closing tab: https://eplogoffplan.com/projects/cascada-1-apartments-by-bt-properties
+[2026-01-31 20:23:22]   extracted content (sections=24, blocks=87, imgs=65, pdfs=0, root=body)
+[2026-01-31 20:23:22]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 20:23:35]   Processing URL (10/10): https://www.dubaihomesonline.com/project/851-cascada-apartments-waada-dubai-south
+[2026-01-31 20:23:35] Opening new tab for URL: https://www.dubaihomesonline.com/project/851-cascada-apartments-waada-dubai-south
+[2026-01-31 20:23:52] Closing tab: https://www.dubaihomesonline.com/project/851-cascada-apartments-waada-dubai-south
+[2026-01-31 20:23:53]   extracted content (sections=50, blocks=35, imgs=52, pdfs=0, root=main)
+[2026-01-31 20:23:53]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 20:23:54] Project completed: Waada - Cascada 2 — 10 pages processed
+[2026-01-31 20:24:15] 
+[14/100] Project: ايتون هاوس
+[2026-01-31 20:24:15]   Developer: nan
+[2026-01-31 20:24:15]   Google query: ايتون هاوس nan Offplan Project Dubai
+[2026-01-31 20:24:27]   Collected 14 candidate URLs (deduped)
+[2026-01-31 20:24:51]   Processing URL (1/10): https://famproperties.com/dubai-south-dubai/eton-house-prices/eton-house
+[2026-01-31 20:24:51] Opening new tab for URL: https://famproperties.com/dubai-south-dubai/eton-house-prices/eton-house
+[2026-01-31 20:25:09] Closing tab: https://famproperties.com/dubai-south-dubai/eton-house-prices/eton-house
+[2026-01-31 20:25:10]   extracted content (sections=14, blocks=8, imgs=2, pdfs=0, root=main)
+[2026-01-31 20:25:10]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 20:25:20]   Processing URL (2/10): https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:25:20] Opening new tab for URL: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:25:36] Closing tab: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:25:36]   extracted content (sections=19, blocks=35, imgs=1, pdfs=0, root=article)
+[2026-01-31 20:25:36]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 20:25:47]   Processing URL (3/10): https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:25:47] Opening new tab for URL: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:26:10] Closing tab: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:26:11]   extracted content (sections=27, blocks=46, imgs=14, pdfs=0, root=div)
+[2026-01-31 20:26:11]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 20:26:20]   Processing URL (4/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:26:20] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:26:39] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:26:40]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 20:26:40]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 20:26:49]   Processing URL (5/10): https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:26:49] Opening new tab for URL: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:27:06] Closing tab: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:27:08]   extracted content (sections=3, blocks=7, imgs=0, pdfs=0, root=main)
+[2026-01-31 20:27:08]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 20:27:10]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/lp/dubai
+[2026-01-31 20:27:10]   Skipping URL (blacklisted domain): https://www.bayut.com/for-sale/off-plan/property/dubai/
+[2026-01-31 20:27:22]   Processing URL (6/10): https://off-planproperties.ae/off-plan-townhouses-dubai/
+[2026-01-31 20:27:22] Opening new tab for URL: https://off-planproperties.ae/off-plan-townhouses-dubai/
+[2026-01-31 20:27:38] Closing tab: https://off-planproperties.ae/off-plan-townhouses-dubai/
+[2026-01-31 20:27:39]   extracted content (sections=32, blocks=55, imgs=12, pdfs=0, root=article)
+[2026-01-31 20:27:39]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 20:27:40]   Skipping URL (blacklisted domain): https://dubai.dubizzle.com/en/property-for-sale/off-plan/residential/townhouse/
+[2026-01-31 20:27:52]   Processing URL (7/10): https://www.offplan-dubai.com/
+[2026-01-31 20:27:52] Opening new tab for URL: https://www.offplan-dubai.com/
+[2026-01-31 20:28:13] Closing tab: https://www.offplan-dubai.com/
+[2026-01-31 20:28:16]   extracted content (sections=44, blocks=65, imgs=79, pdfs=0, root=main)
+[2026-01-31 20:28:16]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 20:28:29]   Processing URL (8/10): https://opr.ae/projects/townhouses
+[2026-01-31 20:28:29] Opening new tab for URL: https://opr.ae/projects/townhouses
+[2026-01-31 20:28:57] Closing tab: https://opr.ae/projects/townhouses
+[2026-01-31 20:29:09]   extracted content (sections=20, blocks=81, imgs=73, pdfs=0, root=body)
+[2026-01-31 20:29:09]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 20:29:21]   Processing URL (9/10): https://www.hausandhaus.com/off-plan/properties/for-sale/in-dubai/
+[2026-01-31 20:29:21] Opening new tab for URL: https://www.hausandhaus.com/off-plan/properties/for-sale/in-dubai/
+[2026-01-31 20:29:42] Closing tab: https://www.hausandhaus.com/off-plan/properties/for-sale/in-dubai/
+[2026-01-31 20:29:43]   extracted content (sections=66, blocks=251, imgs=150, pdfs=0, root=main)
+[2026-01-31 20:29:43]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 20:29:51]   Processing URL (10/10): https://danubeproperties.com/off-plan-apartments-dubai/
+[2026-01-31 20:29:51] Opening new tab for URL: https://danubeproperties.com/off-plan-apartments-dubai/
+[2026-01-31 20:30:17] Closing tab: https://danubeproperties.com/off-plan-apartments-dubai/
+[2026-01-31 20:30:19]   extracted content (sections=121, blocks=131, imgs=37, pdfs=0, root=main)
+[2026-01-31 20:30:19]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 20:30:21] Project completed: ايتون هاوس — 10 pages processed
+[2026-01-31 20:30:44] 
+[15/100] Project: اس دبليو اس للتطوير ش ذ م م
+[2026-01-31 20:30:44]   Developer: nan
+[2026-01-31 20:30:44]   Google query: اس دبليو اس للتطوير ش ذ م م nan Offplan Project Dubai
+[2026-01-31 20:30:51]   Collected 14 candidate URLs (deduped)
+[2026-01-31 20:31:08]   Processing URL (1/10): https://www.lankea.com/en/property-developers/s-w-s-developments
+[2026-01-31 20:31:08] Opening new tab for URL: https://www.lankea.com/en/property-developers/s-w-s-developments
+[2026-01-31 20:31:22] Closing tab: https://www.lankea.com/en/property-developers/s-w-s-developments
+[2026-01-31 20:31:22]   extracted content (sections=2, blocks=14, imgs=5, pdfs=0, root=body)
+[2026-01-31 20:31:22]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 20:31:29]   Processing URL (2/10): https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:31:29] Opening new tab for URL: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:31:48] Closing tab: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:31:48]   extracted content (sections=19, blocks=35, imgs=1, pdfs=0, root=article)
+[2026-01-31 20:31:48]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 20:31:56]   Processing URL (3/10): https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:31:56] Opening new tab for URL: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:32:18] Closing tab: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:32:20]   extracted content (sections=27, blocks=46, imgs=14, pdfs=0, root=div)
+[2026-01-31 20:32:20]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 20:32:32]   Processing URL (4/10): https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:32:32] Opening new tab for URL: https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:32:50] Closing tab: https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:32:50]   extracted content (sections=5, blocks=7, imgs=5, pdfs=0, root=main)
+[2026-01-31 20:32:50]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 20:33:03]   Processing URL (5/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:33:03] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:33:22] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:33:22]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 20:33:22]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 20:33:36]   Processing URL (6/10): https://svarndevelopment.com/legacy.html
+[2026-01-31 20:33:36] Opening new tab for URL: https://svarndevelopment.com/legacy.html
+[2026-01-31 20:34:53] Closing tab: https://svarndevelopment.com/legacy.html
+[2026-01-31 20:34:54]   extracted content (sections=56, blocks=41, imgs=4, pdfs=0, root=body)
+[2026-01-31 20:34:54]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 20:35:05]   Processing URL (7/10): https://www.offplan-dubai.com/
+[2026-01-31 20:35:05] Opening new tab for URL: https://www.offplan-dubai.com/
+[2026-01-31 20:36:20] Closing tab: https://www.offplan-dubai.com/
+[2026-01-31 20:36:20]   extracted content (sections=2, blocks=4, imgs=0, pdfs=0, root=div)
+[2026-01-31 20:36:20]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 20:36:32]   Processing URL (8/10): https://www.offplanprojects-dubai.com/
+[2026-01-31 20:36:32] Opening new tab for URL: https://www.offplanprojects-dubai.com/
+[2026-01-31 20:36:50] Closing tab: https://www.offplanprojects-dubai.com/
+[2026-01-31 20:36:50]   extracted content (sections=25, blocks=50, imgs=60, pdfs=0, root=main)
+[2026-01-31 20:36:50]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 20:36:58]   Processing URL (9/10): https://www.lankea.com/en/property-developers
+[2026-01-31 20:36:58] Opening new tab for URL: https://www.lankea.com/en/property-developers
+[2026-01-31 20:37:11] Closing tab: https://www.lankea.com/en/property-developers
+[2026-01-31 20:37:14]   extracted content (sections=158, blocks=465, imgs=69, pdfs=0, root=body)
+[2026-01-31 20:37:14]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 20:37:23]   Processing URL (10/10): https://famproperties.com/blog/new-off-plan-developments-dubai-2025
+[2026-01-31 20:37:23] Opening new tab for URL: https://famproperties.com/blog/new-off-plan-developments-dubai-2025
+[2026-01-31 20:37:40] Closing tab: https://famproperties.com/blog/new-off-plan-developments-dubai-2025
+[2026-01-31 20:37:41]   extracted content (sections=60, blocks=170, imgs=24, pdfs=0, root=main)
+[2026-01-31 20:37:41]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 20:37:42] Project completed: اس دبليو اس للتطوير ش ذ م م — 10 pages processed
+[2026-01-31 20:37:54] 
+[16/100] Project: عزيزي ريفيرا 57
+[2026-01-31 20:37:54]   Developer: nan
+[2026-01-31 20:37:54]   Google query: عزيزي ريفيرا 57 nan Offplan Project Dubai
+[2026-01-31 20:38:04]   Collected 16 candidate URLs (deduped)
+[2026-01-31 20:38:29]   Processing URL (1/10): https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:38:29] Opening new tab for URL: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:38:45] Closing tab: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:38:48]   extracted content (sections=31, blocks=71, imgs=125, pdfs=0, root=body)
+[2026-01-31 20:38:48]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 20:39:00]   Processing URL (2/10): https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:39:00] Opening new tab for URL: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:39:15] Closing tab: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:39:16]   extracted content (sections=19, blocks=35, imgs=1, pdfs=0, root=article)
+[2026-01-31 20:39:16]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 20:39:26]   Processing URL (3/10): https://www.luxhabitat.ae/developers/meydan-group/
+[2026-01-31 20:39:26] Opening new tab for URL: https://www.luxhabitat.ae/developers/meydan-group/
+[2026-01-31 20:39:43] Closing tab: https://www.luxhabitat.ae/developers/meydan-group/
+[2026-01-31 20:39:44]   extracted content (sections=10, blocks=12, imgs=15, pdfs=0, root=main)
+[2026-01-31 20:39:44]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 20:39:53]   Processing URL (4/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:39:53] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:40:14] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:40:15]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 20:40:15]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 20:40:28]   Processing URL (5/10): https://new-projects.ae/upcoming-offplan-properties-in-2025
+[2026-01-31 20:40:28] Opening new tab for URL: https://new-projects.ae/upcoming-offplan-properties-in-2025
+[2026-01-31 20:40:45] Closing tab: https://new-projects.ae/upcoming-offplan-properties-in-2025
+[2026-01-31 20:40:46]   extracted content (sections=73, blocks=24, imgs=26, pdfs=0, root=body)
+[2026-01-31 20:40:46]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 20:40:55]   Processing URL (6/10): https://limeswood.ae/project/azizi-riviera-57
+[2026-01-31 20:40:55] Opening new tab for URL: https://limeswood.ae/project/azizi-riviera-57
+[2026-01-31 20:41:11] Closing tab: https://limeswood.ae/project/azizi-riviera-57
+[2026-01-31 20:41:11]   extracted content (sections=14, blocks=28, imgs=7, pdfs=0, root=body)
+[2026-01-31 20:41:11]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 20:41:24]   Processing URL (7/10): https://www.amrinproperties.com/property/azizi-riviera-57-1618
+[2026-01-31 20:41:24] Opening new tab for URL: https://www.amrinproperties.com/property/azizi-riviera-57-1618
+[2026-01-31 20:41:40] Closing tab: https://www.amrinproperties.com/property/azizi-riviera-57-1618
+[2026-01-31 20:41:41]   extracted content (sections=20, blocks=15, imgs=12, pdfs=0, root=body)
+[2026-01-31 20:41:41]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 20:41:48]   Processing URL (8/10): https://www.azizidevelopments.com/dubai/meydan/riviera
+[2026-01-31 20:41:48] Opening new tab for URL: https://www.azizidevelopments.com/dubai/meydan/riviera
+[2026-01-31 20:42:09] Closing tab: https://www.azizidevelopments.com/dubai/meydan/riviera
+[2026-01-31 20:42:09]   extracted content (sections=29, blocks=45, imgs=58, pdfs=0, root=body)
+[2026-01-31 20:42:09]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 20:42:19]   Processing URL (9/10): https://www.bncnetwork.net/project/CommerciaResidential-Building-2BG8-at-Plot-No-3475101CP04009-Meydan-One/MzMwNzQw/
+[2026-01-31 20:42:19] Opening new tab for URL: https://www.bncnetwork.net/project/CommerciaResidential-Building-2BG8-at-Plot-No-3475101CP04009-Meydan-One/MzMwNzQw/
+[2026-01-31 20:42:35] Closing tab: https://www.bncnetwork.net/project/CommerciaResidential-Building-2BG8-at-Plot-No-3475101CP04009-Meydan-One/MzMwNzQw/
+[2026-01-31 20:42:36]   extracted content (sections=8, blocks=10, imgs=3, pdfs=0, root=main)
+[2026-01-31 20:42:36]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 20:42:45]   Processing URL (10/10): https://www.offplan-dubai.com/riviera-azizi-meydan/
+[2026-01-31 20:42:45] Opening new tab for URL: https://www.offplan-dubai.com/riviera-azizi-meydan/
+[2026-01-31 20:44:03] Closing tab: https://www.offplan-dubai.com/riviera-azizi-meydan/
+[2026-01-31 20:44:03]   extracted content (sections=1, blocks=0, imgs=0, pdfs=0, root=body)
+[2026-01-31 20:44:03]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 20:44:05] Project completed: عزيزي ريفيرا 57 — 10 pages processed
+[2026-01-31 20:44:26] 
+[17/100] Project: كابيتال سيكس
+[2026-01-31 20:44:26]   Developer: nan
+[2026-01-31 20:44:26]   Google query: كابيتال سيكس nan Offplan Project Dubai
+[2026-01-31 20:44:36]   Collected 25 candidate URLs (deduped)
+[2026-01-31 20:44:45]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/lp/dubai/dubai-land
+[2026-01-31 20:44:45]   Skipping URL (blacklisted domain): https://www.youtube.com/watch?v=vy42tiiENoA
+[2026-01-31 20:44:52]   Processing URL (1/10): https://springfieldproperties.ae/projects/
+[2026-01-31 20:44:52] Opening new tab for URL: https://springfieldproperties.ae/projects/
+[2026-01-31 20:45:09] Closing tab: https://springfieldproperties.ae/projects/
+[2026-01-31 20:45:09]   extracted content (sections=77, blocks=175, imgs=75, pdfs=0, root=main)
+[2026-01-31 20:45:09]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 20:45:20]   Processing URL (2/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:45:20] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:45:48] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:45:49]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 20:45:49]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 20:46:01]   Processing URL (3/10): https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:46:01] Opening new tab for URL: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:46:58] Closing tab: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:47:00]   extracted content (sections=27, blocks=46, imgs=14, pdfs=0, root=div)
+[2026-01-31 20:47:00]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 20:47:09]   Processing URL (4/10): https://www.drivenproperties.com/dubai/upcoming-off-plan-properties-in-2026
+[2026-01-31 20:47:09] Opening new tab for URL: https://www.drivenproperties.com/dubai/upcoming-off-plan-properties-in-2026
+[2026-01-31 20:47:26] Closing tab: https://www.drivenproperties.com/dubai/upcoming-off-plan-properties-in-2026
+[2026-01-31 20:47:26]   extracted content (sections=39, blocks=97, imgs=31, pdfs=0, root=main)
+[2026-01-31 20:47:26]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 20:47:38]   Processing URL (5/10): https://excelproperties.ae/blog/the-surge-in-off-plan-sales-in-dubai-property-market
+[2026-01-31 20:47:38] Opening new tab for URL: https://excelproperties.ae/blog/the-surge-in-off-plan-sales-in-dubai-property-market
+[2026-01-31 20:47:54] Closing tab: https://excelproperties.ae/blog/the-surge-in-off-plan-sales-in-dubai-property-market
+[2026-01-31 20:47:55]   extracted content (sections=24, blocks=76, imgs=34, pdfs=0, root=main)
+[2026-01-31 20:47:55]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 20:48:06]   Processing URL (6/10): https://offplanpropertiesdubai.ae/buy-off-plan-property-in-dubai/
+[2026-01-31 20:48:06] Opening new tab for URL: https://offplanpropertiesdubai.ae/buy-off-plan-property-in-dubai/
+[2026-01-31 20:48:25] Closing tab: https://offplanpropertiesdubai.ae/buy-off-plan-property-in-dubai/
+[2026-01-31 20:48:26]   extracted content (sections=13, blocks=1, imgs=10, pdfs=0, root=div)
+[2026-01-31 20:48:26]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 20:48:28]   Skipping URL (blacklisted domain): https://www.bayut.com/for-sale/off-plan/property/dubai/dubai-industrial-city/
+[2026-01-31 20:48:37]   Processing URL (7/10): https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:48:37] Opening new tab for URL: https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:48:56] Closing tab: https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:48:56]   extracted content (sections=5, blocks=7, imgs=5, pdfs=0, root=main)
+[2026-01-31 20:48:56]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 20:49:04]   Processing URL (8/10): https://www.almasdar.com/161018
+[2026-01-31 20:49:04] Opening new tab for URL: https://www.almasdar.com/161018
+[2026-01-31 20:49:25] Closing tab: https://www.almasdar.com/161018
+[2026-01-31 20:49:25]   extracted content (sections=26, blocks=7, imgs=34, pdfs=0, root=main)
+[2026-01-31 20:49:25]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 20:49:37]   Processing URL (9/10): https://excelproperties.ae/offplan-projects-for-sale-in-dubai
+[2026-01-31 20:49:37] Opening new tab for URL: https://excelproperties.ae/offplan-projects-for-sale-in-dubai
+[2026-01-31 20:49:53] Closing tab: https://excelproperties.ae/offplan-projects-for-sale-in-dubai
+[2026-01-31 20:49:53]   extracted content (sections=16, blocks=84, imgs=95, pdfs=0, root=main)
+[2026-01-31 20:49:53]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 20:50:01]   Processing URL (10/10): https://www.hausandhaus.com/resources/latest-news-and-insights/off-plan-property-finance-in-dubai-what-buyers-need-to-know/
+[2026-01-31 20:50:01] Opening new tab for URL: https://www.hausandhaus.com/resources/latest-news-and-insights/off-plan-property-finance-in-dubai-what-buyers-need-to-know/
+[2026-01-31 20:50:20] Closing tab: https://www.hausandhaus.com/resources/latest-news-and-insights/off-plan-property-finance-in-dubai-what-buyers-need-to-know/
+[2026-01-31 20:50:20]   extracted content (sections=16, blocks=37, imgs=11, pdfs=0, root=main)
+[2026-01-31 20:50:20]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 20:50:22] Project completed: كابيتال سيكس — 10 pages processed
+[2026-01-31 20:50:43] 
+[18/100] Project: 2 أوربت ريزيدنسز باي جيول
+[2026-01-31 20:50:43]   Developer: nan
+[2026-01-31 20:50:43]   Google query: 2 أوربت ريزيدنسز باي جيول nan Offplan Project Dubai
+[2026-01-31 20:50:53]   Collected 16 candidate URLs (deduped)
+[2026-01-31 20:51:08]   Processing URL (1/10): https://www.tanamiproperties.com/Projects/Orbit-Residences-by-Jewel
+[2026-01-31 20:51:08] Opening new tab for URL: https://www.tanamiproperties.com/Projects/Orbit-Residences-by-Jewel
+[2026-01-31 20:51:24] Closing tab: https://www.tanamiproperties.com/Projects/Orbit-Residences-by-Jewel
+[2026-01-31 20:51:25]   extracted content (sections=13, blocks=11, imgs=6, pdfs=0, root=main)
+[2026-01-31 20:51:25]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 20:51:26]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/dev/jewel-development/dubai
+[2026-01-31 20:51:34]   Processing URL (2/10): https://uae-offplan.com/property/orbit-residences
+[2026-01-31 20:51:34] Opening new tab for URL: https://uae-offplan.com/property/orbit-residences
+[2026-01-31 20:51:51] Closing tab: https://uae-offplan.com/property/orbit-residences
+[2026-01-31 20:51:54]   extracted content (sections=56, blocks=203, imgs=62, pdfs=0, root=div)
+[2026-01-31 20:51:54]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 20:52:05]   Processing URL (3/10): https://hredevelopment.com/off-plan-developer-in-dubai-2025/
+[2026-01-31 20:52:05] Opening new tab for URL: https://hredevelopment.com/off-plan-developer-in-dubai-2025/
+[2026-01-31 20:52:23] Closing tab: https://hredevelopment.com/off-plan-developer-in-dubai-2025/
+[2026-01-31 20:52:23]   extracted content (sections=21, blocks=62, imgs=6, pdfs=0, root=body)
+[2026-01-31 20:52:23]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 20:52:36]   Processing URL (4/10): https://topluxuryproperty.com/ae/dubai-projects/
+[2026-01-31 20:52:36] Opening new tab for URL: https://topluxuryproperty.com/ae/dubai-projects/
+[2026-01-31 20:52:51] Closing tab: https://topluxuryproperty.com/ae/dubai-projects/
+[2026-01-31 20:52:51]   extracted content (sections=5, blocks=3, imgs=0, pdfs=0, root=body)
+[2026-01-31 20:52:51]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 20:53:02]   Processing URL (5/10): https://www.drivenproperties.com/dubai-properties-areas/dubai-water-canal/off-plan-projects-for-sale
+[2026-01-31 20:53:02] Opening new tab for URL: https://www.drivenproperties.com/dubai-properties-areas/dubai-water-canal/off-plan-projects-for-sale
+[2026-01-31 20:53:19] Closing tab: https://www.drivenproperties.com/dubai-properties-areas/dubai-water-canal/off-plan-projects-for-sale
+[2026-01-31 20:53:19]   extracted content (sections=16, blocks=44, imgs=21, pdfs=0, root=main)
+[2026-01-31 20:53:19]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 20:53:27]   Processing URL (6/10): https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:53:27] Opening new tab for URL: https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:53:43] Closing tab: https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:53:44]   extracted content (sections=5, blocks=7, imgs=5, pdfs=0, root=main)
+[2026-01-31 20:53:44]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 20:53:56]   Processing URL (7/10): https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:53:56] Opening new tab for URL: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:54:12] Closing tab: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:54:12]   extracted content (sections=19, blocks=35, imgs=1, pdfs=0, root=article)
+[2026-01-31 20:54:12]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 20:54:25]   Processing URL (8/10): https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:54:25] Opening new tab for URL: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:54:41] Closing tab: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:54:42]   extracted content (sections=3, blocks=7, imgs=0, pdfs=0, root=main)
+[2026-01-31 20:54:42]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 20:54:53]   Processing URL (9/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:54:53] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:55:13] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:55:13]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 20:55:13]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 20:55:26]   Processing URL (10/10): https://dxboffplan.com/
+[2026-01-31 20:55:26] Opening new tab for URL: https://dxboffplan.com/
+[2026-01-31 20:55:42] Closing tab: https://dxboffplan.com/
+[2026-01-31 20:55:43]   extracted content (sections=71, blocks=78, imgs=39, pdfs=0, root=main)
+[2026-01-31 20:55:43]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 20:55:44] Project completed: 2 أوربت ريزيدنسز باي جيول — 10 pages processed
+[2026-01-31 20:55:58] 
+[19/100] Project: بانيان تري ريزيدنسيز أوريليا دبي
+[2026-01-31 20:55:58]   Developer: nan
+[2026-01-31 20:55:58]   Google query: بانيان تري ريزيدنسيز أوريليا دبي nan Offplan Project Dubai
+[2026-01-31 20:56:07]   Collected 16 candidate URLs (deduped)
+[2026-01-31 20:56:25]   Processing URL (1/10): https://selecthouse.co/uae/en/blog/upcoming-mega-projects-in-dubai/
+[2026-01-31 20:56:25] Opening new tab for URL: https://selecthouse.co/uae/en/blog/upcoming-mega-projects-in-dubai/
+[2026-01-31 20:56:41] Closing tab: https://selecthouse.co/uae/en/blog/upcoming-mega-projects-in-dubai/
+[2026-01-31 20:56:41]   extracted content (sections=20, blocks=74, imgs=7, pdfs=0, root=div)
+[2026-01-31 20:56:41]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 20:56:52]   Processing URL (2/10): https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:56:52] Opening new tab for URL: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:57:09] Closing tab: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 20:57:12]   extracted content (sections=31, blocks=71, imgs=125, pdfs=0, root=body)
+[2026-01-31 20:57:12]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 20:57:23]   Processing URL (3/10): https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:57:23] Opening new tab for URL: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:57:47] Closing tab: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 20:57:49]   extracted content (sections=27, blocks=46, imgs=14, pdfs=0, root=div)
+[2026-01-31 20:57:49]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 20:58:02]   Processing URL (4/10): https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:58:02] Opening new tab for URL: https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:58:19] Closing tab: https://www.tilalalghaf.com/en/blogs/how-to-sell-off-plan-property-in-dubai
+[2026-01-31 20:58:19]   extracted content (sections=5, blocks=7, imgs=5, pdfs=0, root=main)
+[2026-01-31 20:58:19]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 20:58:32]   Processing URL (5/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:58:32] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:58:52] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 20:58:53]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 20:58:53]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 20:59:03]   Processing URL (6/10): https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:59:03] Opening new tab for URL: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:59:21] Closing tab: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 20:59:22]   extracted content (sections=3, blocks=7, imgs=0, pdfs=0, root=main)
+[2026-01-31 20:59:22]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 20:59:31]   Processing URL (7/10): https://limeswood.ae/area/downtown-dubai-banyan-tree-residences-aurelia
+[2026-01-31 20:59:31] Opening new tab for URL: https://limeswood.ae/area/downtown-dubai-banyan-tree-residences-aurelia
+[2026-01-31 20:59:47] Closing tab: https://limeswood.ae/area/downtown-dubai-banyan-tree-residences-aurelia
+[2026-01-31 20:59:47]   extracted content (sections=12, blocks=18, imgs=2, pdfs=0, root=body)
+[2026-01-31 20:59:47]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 20:59:56]   Processing URL (8/10): https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 20:59:56] Opening new tab for URL: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 21:00:13] Closing tab: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 21:00:14]   extracted content (sections=19, blocks=35, imgs=1, pdfs=0, root=article)
+[2026-01-31 21:00:14]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 21:00:16]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/lp/dubai
+[2026-01-31 21:00:25]   Processing URL (9/10): https://opr.ae/
+[2026-01-31 21:00:25] Opening new tab for URL: https://opr.ae/
+[2026-01-31 21:00:59] Closing tab: https://opr.ae/
+[2026-01-31 21:01:10]   extracted content (sections=32, blocks=90, imgs=42, pdfs=0, root=body)
+[2026-01-31 21:01:10]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 21:01:19]   Processing URL (10/10): https://aardysprop.com/off-plan-properties-dubai
+[2026-01-31 21:01:19] Opening new tab for URL: https://aardysprop.com/off-plan-properties-dubai
+[2026-01-31 21:01:43] Closing tab: https://aardysprop.com/off-plan-properties-dubai
+[2026-01-31 21:01:44]   extracted content (sections=57, blocks=123, imgs=84, pdfs=0, root=body)
+[2026-01-31 21:01:44]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 21:01:46] Project completed: بانيان تري ريزيدنسيز أوريليا دبي — 10 pages processed
+[2026-01-31 21:02:06] 
+[20/100] Project: لكي برل ريسيدنس
+[2026-01-31 21:02:06]   Developer: nan
+[2026-01-31 21:02:06]   Google query: لكي برل ريسيدنس nan Offplan Project Dubai
+[2026-01-31 21:02:14]   Collected 18 candidate URLs (deduped)
+[2026-01-31 21:02:28]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/lp/dubai/villas
+[2026-01-31 21:02:35]   Processing URL (1/10): https://off-planproperties.ae/
+[2026-01-31 21:02:35] Opening new tab for URL: https://off-planproperties.ae/
+[2026-01-31 21:02:51] Closing tab: https://off-planproperties.ae/
+[2026-01-31 21:02:52]   extracted content (sections=1, blocks=7, imgs=1, pdfs=0, root=div)
+[2026-01-31 21:02:52]   Saving JSON after URL (sources so far: 1)
+[2026-01-31 21:02:53]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/lp/dubai/dubai-marina
+[2026-01-31 21:03:01]   Processing URL (2/10): https://www.offplanproperties.ai/blog/best-off-plan-projects-in-dubai
+[2026-01-31 21:03:01] Opening new tab for URL: https://www.offplanproperties.ai/blog/best-off-plan-projects-in-dubai
+[2026-01-31 21:03:21] Closing tab: https://www.offplanproperties.ai/blog/best-off-plan-projects-in-dubai
+[2026-01-31 21:03:22]   extracted content (sections=33, blocks=75, imgs=16, pdfs=0, root=div)
+[2026-01-31 21:03:22]   Saving JSON after URL (sources so far: 2)
+[2026-01-31 21:03:23]   Skipping URL (blacklisted domain): https://www.propertyfinder.ae/en/new-projects/lp/dubai/dubai-land
+[2026-01-31 21:03:31]   Processing URL (3/10): https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 21:03:31] Opening new tab for URL: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 21:03:50] Closing tab: https://sobharealty.com/media-center/blogs/risk-vs-reward-off-plan-properties-dubai-explained
+[2026-01-31 21:03:53]   extracted content (sections=31, blocks=71, imgs=125, pdfs=0, root=body)
+[2026-01-31 21:03:53]   Saving JSON after URL (sources so far: 3)
+[2026-01-31 21:04:01]   Processing URL (4/10): https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 21:04:01] Opening new tab for URL: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 21:04:25] Closing tab: https://danubeproperties.com/off-plan-payment-plans-dubai/
+[2026-01-31 21:04:27]   extracted content (sections=27, blocks=46, imgs=14, pdfs=0, root=div)
+[2026-01-31 21:04:27]   Saving JSON after URL (sources so far: 4)
+[2026-01-31 21:04:29]   Skipping URL (blacklisted domain): https://dubai.dubizzle.com/en/property-for-sale/off-plan/residential/
+[2026-01-31 21:04:29]   Skipping URL (blacklisted domain): https://www.bayut.com/mybayut/latest-off-plan-projects-dubai/
+[2026-01-31 21:04:37]   Processing URL (5/10): https://hsproperty.ae/properties/off-plan
+[2026-01-31 21:04:37] Opening new tab for URL: https://hsproperty.ae/properties/off-plan
+[2026-01-31 21:04:55] Closing tab: https://hsproperty.ae/properties/off-plan
+[2026-01-31 21:04:56]   extracted content (sections=6, blocks=2, imgs=0, pdfs=0, root=div)
+[2026-01-31 21:04:56]   Saving JSON after URL (sources so far: 5)
+[2026-01-31 21:05:07]   Processing URL (6/10): https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 21:05:07] Opening new tab for URL: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 21:05:27] Closing tab: https://properties.emaar.com/en/off-plan-projects/
+[2026-01-31 21:05:28]   extracted content (sections=67, blocks=15, imgs=153, pdfs=0, root=div)
+[2026-01-31 21:05:28]   Saving JSON after URL (sources so far: 6)
+[2026-01-31 21:05:41]   Processing URL (7/10): https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 21:05:41] Opening new tab for URL: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 21:05:59] Closing tab: https://off-planproperties.ae/off-plan-property-dubai-faq/
+[2026-01-31 21:05:59]   extracted content (sections=19, blocks=35, imgs=1, pdfs=0, root=article)
+[2026-01-31 21:05:59]   Saving JSON after URL (sources so far: 7)
+[2026-01-31 21:06:01]   Skipping URL (blacklisted domain): https://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Dubai)
+[2026-01-31 21:06:13]   Processing URL (8/10): https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 21:06:13] Opening new tab for URL: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 21:06:29] Closing tab: https://famproperties.com/list-of-new-development-projects-in-dubai
+[2026-01-31 21:06:30]   extracted content (sections=3, blocks=7, imgs=0, pdfs=0, root=main)
+[2026-01-31 21:06:30]   Saving JSON after URL (sources so far: 8)
+[2026-01-31 21:06:43]   Processing URL (9/10): https://emirates.estate/new-developments/dubai/off-plan/
+[2026-01-31 21:06:43] Opening new tab for URL: https://emirates.estate/new-developments/dubai/off-plan/
+[2026-01-31 21:07:01] Closing tab: https://emirates.estate/new-developments/dubai/off-plan/
+[2026-01-31 21:07:03]   extracted content (sections=1, blocks=13, imgs=40, pdfs=0, root=div)
+[2026-01-31 21:07:03]   Saving JSON after URL (sources so far: 9)
+[2026-01-31 21:07:11]   Processing URL (10/10): https://www.offplanprojects-dubai.com/
+[2026-01-31 21:07:11] Opening new tab for URL: https://www.offplanprojects-dubai.com/
+[2026-01-31 21:07:27] Closing tab: https://www.offplanprojects-dubai.com/
+[2026-01-31 21:07:27]   extracted content (sections=25, blocks=50, imgs=60, pdfs=0, root=main)
+[2026-01-31 21:07:27]   Saving JSON after URL (sources so far: 10)
+[2026-01-31 21:07:29] Project completed: لكي برل ريسيدنس — 10 pages processed
+[2026-01-31 21:07:50] 
+[21/100] Project: جوري هيلز المرحلة الثانية
+[2026-01-31 21:07:50]   Developer: nan
+[2026-01-31 21:07:50]   Google query: جوري هيلز المرحلة الثانية nan Offplan Project Dubai
+[2026-01-31 21:07:58]   No URLs returned (possible Google captcha). SERP attempt 1/3
+[2026-01-31 21:07:58] CAPTCHA detected (serp_retry). Cooling down for 226 seconds.
+[2026-01-31 21:11:58]   No URLs returned (possible Google captcha). SERP attempt 2/3
+[2026-01-31 21:11:58] CAPTCHA detected (serp_retry). Cooling down for 229 seconds.
+[2026-01-31 21:12:10] Closing Selenium driver...

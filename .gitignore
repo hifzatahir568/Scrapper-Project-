@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Scraped / generated data
+*.json
+*.txt
+*.csv
+
+# Browser automation data
+_chrome_user_data/
